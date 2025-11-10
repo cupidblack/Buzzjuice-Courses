@@ -1,0 +1,132 @@
+HS1010: Foundations of Health & Safety and the Global Regulatory Landscape
+
+?? LESSON SNAPSHOT
+This 60-minute lesson introduces the core foundations of Health & Safety (H&S), the global regulatory landscape, and the ethical, legal, and management principles that guide safe practice worldwide.
+It integrates Ghana’s legal framework and international bodies such as NEBOSH, ILO, OSHA, and ISO (particularly ISO 45001), and ends with a real case study — the Rana Plaza disaster — with reflection and guided discussion.
+?? Learning Outcomes (after 60 minutes)
+? Define “Health & Safety” and explain the difference between hazard and risk.
+? Identify the roles and relationships of NEBOSH, ILO, OSHA, and ISO.
+? Summarize the PDCA (Plan–Do–Check–Act) model of ISO 45001.
+? Trace key historical milestones in the evolution of workplace safety.
+? Recognize personal wellbeing actions and three essential HSE professional skills.
+?? 60-Minute Delivery Plan
+TimeSegmentKey Focus00:00 – 05:00Welcome & ObjectivesIntroductions, student hazard examples05:00 – 20:00Core ConceptsHazard vs Risk, Hierarchy of Control, Duty of Care20:00 – 35:00Global FrameworksNEBOSH, ILO, OSHA, ISO — roles & interplay35:00 – 45:00ISO 45001 PDCAApplication to real workplaces45:00 – 53:00Case StudyRana Plaza collapse + reflection53:00 – 58:00Discussion Quiz5 key questions58:00 – 60:00Wrap-upSummary, forum prompt, next steps
+?? HS1011. Core Concepts & Definitions
+?? Health & Safety (H&S) — The organized efforts, systems, and practices designed to prevent injury, illness, and promote the overall wellbeing of individuals in workplaces and public spaces.
+Key Terms
+? Hazard: Any potential source of harm (e.g., chemicals, noise, wet floors).
+? Risk: The likelihood and consequence of harm resulting from a hazard.
+? Control Measures: Steps to eliminate or reduce risk.
+? Hierarchy of Control: Eliminate ? Substitute ? Engineer ? Administrative ? PPE.
+? Duty of Care: The legal and ethical obligation to protect others from harm.
+? Wellbeing: Encompasses mental health, fatigue, ergonomics, and lifestyle management.
+?? Ghana Context (Callout Box)
+The Labour Act 2003 (Act 651) and Factories, Offices & Shops Act 328 require employers to ensure safe systems of work, provide protective equipment, and report serious incidents.
+Tip: Encourage practical, low-cost control measures and active reporting in informal sector settings.
+
+
+
+
+?? HS1012. Global Health & Safety Frameworks
+1?? NEBOSH — The Knowledge Framework
+? Provides professional and vocational qualifications in occupational safety and health.
+? Aligns global HSE competency standards and helps employers identify skilled professionals.
+2?? ILO — The Policy and Labour Framework
+? Sets international conventions and recommendations (e.g., ILO-OSH 2001).
+? Guides national policies and social dialogue for decent, safe work.
+3?? OSHA — The Enforcement Model (USA)
+? Offers practical training materials and inspection guidance.
+? Inspires national authorities globally, including Ghana’s Department of Factories Inspectorate.
+4?? ISO — The Management-System Framework
+? ISO 45001 provides a systematic, auditable structure for occupational safety management.
+? Encourages leadership, worker participation, and continuous improvement.
+How They Interact
+ILO sets global standards ? ISO 45001 operationalizes them in management systems ? NEBOSH professionalizes the workforce ? national regulators (like OSHA or Ghana DFI) enforce compliance.
+
+
+
+?? Recommended Verified Video Resources (Checked 2025-11-05)
+? NEBOSH Overview (Official Channel)
+“What is NEBOSH | Benefits of NEBOSH” — https://www.youtube.com/watch?v=aqezK6LgWRE ? (? 5 min 30 sec)
+? ILO OSH Management Systems (Official ILO)
+“Occupational health and safety management system || ILO OSH 2001” — https://www.youtube.com/watch?v=7Rg0cOBS-RE ? (? 13 min 36 sec)
+Both are educational, publicly available, and suitable for embedding within LearnDash.
+
+?? HS1013. Decoding ISO 45001 — The PDCA Model
+PLAN — Establish context, identify hazards, set measurable objectives, prepare risk register.
+DO — Implement training, communication, operational controls, documentation.
+CHECK — Monitor performance, conduct audits, review incidents.
+ACT — Implement corrective actions and management reviews for continual improvement.
+? Practical Templates (to attach in LearnDash)
+1. Simple Risk-Register (columns: hazard, consequence, likelihood, control, owner, review date)
+2. Training Matrix (who needs what and when)
+3. 5-Item Audit Checklist (quick internal review tool)
+
+?? HS1014. The Evolution & Future of Health & Safety
+? Pre-1900s: Industrial revolution hazards, child labour, early welfare reforms.
+? 1900s–1950s: Factory Acts, occupational medicine.
+? 1970s–1990s: Rise of OSHA, ILO conventions, international cooperation.
+? 2000s–Present: ISO 45001 systems thinking, mental health focus, ESG reporting.
+? Future: AI-based risk prediction, remote-work ergonomics, global supply-chain accountability.
+
+?? HS1015. Case Study — Rana Plaza (Bangladesh, 2013)
+?? Summary:
+An eight-storey garment factory collapsed due to ignored structural warnings, killing over 1,100 workers. It remains one of the deadliest industrial disasters in history.
+Key Lessons for Practitioners
+? Safety culture must be reinforced by engineering integrity and accountability.
+? Supply-chain oversight and brand responsibility save lives.
+? Worker participation and inspection systems are vital for prevention.
+Verified Case Study Video
+“Rana Plaza: The Collapse That Shook the World” — DW Documentary
+https://www.youtube.com/watch?v=Mq_mTnhoxEY ? (runtime ? 12 min 23 sec)
+Class Activity (45 – 53 min)
+– Watch 7–8 minutes of the video (teacher cue).
+– Discuss in breakout forum:
+?• Three immediate preventive actions.
+?• Two long-term system improvements (policy or training).
+Reflection Prompt (Forum):
+If ISO 45001 had been applied, which clauses (leadership, worker participation, hazard identification, procurement) could have prevented the disaster?
+
+?? HS1016. Personal Wellbeing & Professional HSE Skills
+Checklist for Everyday Safety Leadership
+? Maintain healthy routines — sleep, nutrition, hydration, mental rest.
+? Use active observation — identify and report hazards early.
+? Communicate clearly — safety depends on shared understanding.
+? Investigate ethically — focus on causes, not blame.
+? Practice empathy and cultural awareness.
+Mini-Activity (Forum):
+Keep a one-week “Wellbeing & Safety Log.” Each day, note one personal wellbeing action and one workplace or community hazard observation.
+
+
+
+
+?? HS1017. Discussion & Quiz (5 Questions)
+1?? Define “hazard” and “risk,” giving one Ghanaian example.
+2?? List the hierarchy of control in order and provide one engineering control example.
+3?? Name two functions of NEBOSH and one Ghana regulation protecting workers.
+4?? From the Rana Plaza case, identify two root causes and two preventive measures.
+5?? Which ISO 45001 clause would you prioritise in a small manufacturing firm, and why?
+(5-minute group or forum discussion; brief answers posted to LearnDash forum.)
+
+?? References & Verified Sources (Checked 2025-11-05)
+1?? DW Documentary: “Rana Plaza: The Collapse That Shook the World” — https://www.youtube.com/watch?v=Mq_mTnhoxEY (12 min 23 sec).
+2?? ILO: “Occupational health and safety management system || ILO OSH 2001” — https://www.youtube.com/watch?v=7Rg0cOBS-RE (13 min 36 sec).
+3?? NEBOSH Official Channel: https://www.youtube.com/@neboshofficial — sample intro https://www.youtube.com/watch?v=aqezK6LgWRE (5 min 30 sec).
+4?? ISO 45001: Overview — https://www.iso.org/iso-45001-occupational-health-and-safety.html
+5?? NEBOSH Resources: https://www.nebosh.org.uk/our-news-and-events/our-news/webinars-and-videos/
+6?? OSHA Resources: https://www.osha.gov/video/
+7?? Ghana Legislation: Labour Act 2003 (Act 651); Factories, Offices & Shops Act 328.
+?? All multimedia links verified as publicly available and embeddable as of 5 Nov 2025. Instructors should preview videos before each class to cue relevant segments.
+
+?? H. Instructor Notes for LearnDash Setup
+? Embed the DW Rana Plaza video (cue 7-8 minute segment).
+? Upload one-page Risk-Register and Audit-Checklist as attachments.
+? Enable forum titled “Local Hazards and Hierarchy Controls — Ghana Discussion.”
+? Completion criteria: View all videos ? participate in forum ? score ? 70 % quiz ? submit one-page reflection.
+
+BUZZJUICE COURSES					HEALTH & SAFETY 1 – v2025.1.03
+
+
+HS1000 — Fundamentals of Health & Safety							page 1 of 8
+Localization: Ghana — English
+
