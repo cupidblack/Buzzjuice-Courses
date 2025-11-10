@@ -1,0 +1,95 @@
+HS1020 — Building Robust Occupational Safety & Health Management Systems (OHSMS)
+?? LESSON SNAPSHOT
+?? Purpose: Explain practical principles, structure, and implementation of an OHSMS; unpack ISO 45001 (PDCA & key clauses) and show pragmatic integration with ISO 9001 & ISO 14001 for Ghanaian workplaces.
+? Learning Outcomes (after 60 minutes)
+* Define an OHSMS and list its core components.
+* Explain ISO 45001 clause structure and apply the PDCA cycle to real OSH tasks.
+* Describe a 6-step practical roadmap to implement an OHSMS in a Ghanaian SME.
+* Identify 3 integration points between OSH, Quality, and Environment systems.
+* Draft 3 measurable KPIs suitable for a small enterprise.
+
+? 60Minute Delivery Plan
+TimeSegmentKey Focus00:00–05:00Welcome & ObjectivesQuick poll + overview of handout05:00–18:00OHSMS Fundamentals & BenefitsPolicy ? planning ? operation ? check ? act; Ghana legal anchors18:00–30:00ISO 45001 Overview & PDCAClauses 4–10; PLAN ? DO ? CHECK ? ACT; practical mapping30:00–42:006-Step Roadmap (Ghana SME)Gap analysis ? leadership ? hazard ID ? controls ? monitoring ? review42:00–50:00Integration ISO 9001 / 14001HLS alignment; shared QESH policy; KPI design activity50:00–60:00Case Study & ReflectionBhopal Gas Tragedy video cued 00:00–08:00; discussion/reflection 10–12 min
+?? HS1021 - Key Concepts
+What is an Occupational Health and Safety Management System (OHSMS)?: It is a structured management system (policy, planning, support, operation, monitoring, improvement) to prevent harm, meet legal duties, and drive continual OSH improvement.
+Core Elements:
+?? Policy — short, leadership-signed statement with measurable objectives
+?? Leadership & Worker Participation — visible top commitment + consultative worker voice
+?? Planning — hazard identification, risk assessment, legal register, objectives
+?? Support — competence, training, communication, documented information
+?? Operation — procedures, controls, procurement and contractor oversight
+?? Performance Evaluation — inspections, audits, incident/near-miss reporting, KPIs
+?? Improvement — corrective actions, management review, continual improvement
+?? Ghana Legal Callout: Labour Act 2003 (Act 651) & Factories, Offices & Shops Act 328 — employers must ensure safe systems of work, provide PPE, train staff, and report serious incidents.
+?? Common Pitfalls:
+* Paper-only systems with no workplace follow-through
+* No visible leadership or worker consultation
+* Ignoring contractor/supply-chain risks
+* Tick-box audits instead of actionable learning
+
+
+
+?? HS1022 - PDCA & ISO 45001 — Practical Mapping
+PDCAISO 45001 ClausesPractical ActionsPLAN4–6Scope, hazard ID, 1-page risk register, 2–3 OSH objectivesDO7–8Staff training, communication, operational & contractor controlsCHECK9Weekly inspections, incident logs, KPI trackingACT10Corrective actions, management review, continual improvement?? Video (~10 min): What is ISO 45001?
+
+?? HS1023 - 6Step Practical Roadmap (SME / GHANA FOCUS)
+1. ?? Quick gap analysis & define scope (site, activities)
+2. ?? Leadership commitment & publish short OSH policy (signed, measurable)
+3. ?? Conduct hazard ID & create 1-page risk register
+4. ?? Implement basic controls: Eliminate ? Substitute ? Engineer ? Admin ? PPE
+5. ?? Monitoring: weekly inspections, near-miss log, incident reporting, KPI tracking
+6. ?? Quarterly management review: close actions, update register, set priorities
+?? Templates / Resources (PDF & Excel alternatives):
+* Risk Register: PDF Template
+* Training Matrix: PDF Example / Excel version
+* Internal Audit Checklist: PDF
+* Management Review Agenda: PDF Example
+Suggested KPIs: LTIFR, Near-misses/month, % corrective actions closed on time
+
+?? HS1024 - Integration With ISO 9001 & ISO 14001
+* High-Level Structure (HLS) alignment
+* Integrated QESH policy & Management Review
+* Shared KPIs: LTIFR, customer quality issues, % corrective actions closed
+?? Activity: Draft 3 integrated KPIs for your workplace (forum, 150 words)
+
+?? HS1025 - Case Study — Bhopal Gas Tragedy (1984)
+?? Video (~8 min cued): Bhopal Gas Tragedy
+Summary: >3,000 deaths due to process failure & weak OHSMS
+Key Lessons:
+* Engineering integrity & hazard ID
+* Leadership commitment & emergency preparedness
+* Worker participation & regulatory compliance
+?? Activity: List 3 immediate preventive actions & 2 long-term system improvements; relate one to a Ghanaian SME
+
+?? HS1026 - Personal Wellbeing & Professional Skills
+* Healthy routines: sleep, hydration, mental rest
+* Active observation & hazard reporting
+* Clear communication & ethical investigation
+* Empathy & cultural awareness
+?? Activity: One-week “Wellbeing & Safety Log” (forum)
+
+?? HS1027 – Discussion Quiz & References QUESTIONS (5)
+1. ? Explain PDCA in one paragraph with a practical Ghanaian SME example
+2. ? Which ISO 45001 clause would you prioritise first & what immediate action would you take?
+3. ? List 3 KPIs a small transport business in Ghana should track
+4. ? Two practical ways to include contractor safety in your OHSMS
+5. ? From Bhopal, identify 1 root organisational cause & 1 corrective action; relate to Ghanaian SME
+
+?? SHORT VERIFIED VIDEO RESOURCES (<20 min)
+* ?? ILO OSH Management: 13:36 (use 8–10 min)
+* ?? NEBOSH Overview: 5:30
+* ?? Bhopal Documentary: 12:00, cued 00:00–08:00
+?? REFERENCES & SOURCES (verified 20251110)
+1. ILO — Occupational health & safety management system || ILO OSH 2001 — YouTube
+2. NEBOSH — What is NEBOSH | Benefits of NEBOSH — YouTube
+3. Bhopal short documentary — YouTube
+4. ISO 45001 Overview — ISO.org
+5. HSE UK — Five steps to risk assessment (IndG163) — PDF
+6. OSHA resources — https://www.osha.gov/resources
+
+BUZZJUICE COURSES					HEALTH & SAFETY 1 – v2025.1.03
+
+
+HS1000 — Fundamentals of Health & Safety							page 1 of 5
+Localization: Ghana — English
+
