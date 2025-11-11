@@ -1,0 +1,126 @@
+HS1510 — Introduction to Science, Technology & Society (STS)
+?? Lesson Aim
+Explain how science, technology, and society interact; trace major technological revolutions and H&S effects; apply the scientific method to technology pilots; use simple STS frameworks for H&S analysis.
+Learning Outcomes: By the end of this session students will be able to:
+1. Define STS and give Ghanaian examples.
+2. Summarize H&S lessons from technological revolutions.
+3. Design a brief safety pilot using the scientific method.
+4. Map key stakeholders and risks for a sociotechnical system.
+
+? Session Plan (60 min)
+* ?? 0–5 min — Introductions, objectives & Ghana context quick poll
+* ?? 5–20 min — Core definitions, STS loop & historical perspective (minilecture + video)
+* ?? 20–35 min — Scientific method applied to a safety tech pilot (guided worksheet)
+* ?? 35–45 min — STS frameworks: sociotechnical map & stakeholder mapping (group task)
+* ?? 45–55 min — Case study & short video: Zipline Ghana drone service — discussion
+* ?? 55–60 min — Summary, 5 quiz questions, LMS resources
+
+?? Core Concepts
+* ?? Science — evidencebased inquiry: observe ? hypothesise ? test ? conclude.
+* ?? Technology — practical application of scientific knowledge (tools, systems, processes).
+* ?? Society — people, institutions, norms, and economy shaping adoption and rules.
+* ?? STS loop — discovery ? prototype ? adoption ? regulation ? feedback.
+H&S note: Technology changes exposure patterns — automation may remove manual hazards but introduce system, maintenance, and humanmachine interface risks. Always assess both occupational and public safety impacts.
+
+? Historical Revolutions — H&S Takeaways
+1. 1st IR (mechanisation): machine guarding, injury reporting systems, factory acts
+2. 2nd IR (electricity, chemicals): standards, occupational hygiene, regulation emergence
+3. 3rd IR (computerisation): ergonomics, monitoring, psychosocial risks
+4. 4th IR (AI, IoT, drones): complex system failures, data integrity, airspace and cybersecurity risks
+Trainer tip: Link each revolution to a local Ghanaian example (e.g., rural electrification, mobile money) to increase relevance.
+
+
+
+?? Scientific Method — Quick Applied Steps for a Safety Pilot
+1. Observe problem (baseline data)
+2. Ask testable question (clear metric: time, incident rate)
+3. Hypothesise (expected change + safety outcome)
+4. Design pilot with controls, participants, SOPs, and stop/go criteria
+5. Collect data, evaluate, share with stakeholders
+6. Decide: adapt & scale, or stop
+Practical tip: Include a oneline stop criterion (e.g., >1 lost payload in 10 flights, or any injury).
+
+?? STS Analysis Tools (Practical)
+* ?? Sociotechnical map: People ? Technology ? Organisation ? Environment (identify interaction points)
+* ? Benefit–Risk list: list top 3 benefits, top 3 risks, controls, and residual risk
+* ?? Stakeholder mapping: who benefits, who is exposed, who regulates?
+* ? Lifecycle lens: design ? deployment ? operation ? maintenance ? decommissioning
+Use the one-line pilot checklist: Problem | Evidence | Top 3 benefits | Top 3 risks + controls | Key stakeholders | Monitoring plan
+
+
+
+
+?? Case Study — Zipline: Medical Drone Delivery (Ghana)
+Overview: Zipline operates fixed-route drone deliveries of blood, vaccines, and medical supplies to remote clinics. Improved access, reduced road transport risks, but required careful airspace coordination, payload integrity processes, community engagement, and robust maintenance.
+Benefit–Risk Snapshot
+* ? Benefits: faster emergency logistics, reduced road accident exposure, improved patient outcomes
+* ? Risks: payload loss, weather-related failures, communication breakdowns, community/airspace safety
+Controls & Good Practice
+* Formal risk assessment & SOPs; maintenance & preflight checks
+* Operator training, contingency/recall procedures, incident reporting
+* Regulatory coordination (Ghana CAA), community engagement, transparency
+Short Verified Videos (<20 min)
+* ?? Zipline Ghana — Medical drone delivery (?6:00): YouTube
+* ?? TEDEd — How Miscommunication Happens (4:34): YouTube
+* ?? CrashCourse — The Industrial Revolution (?12:00): YouTube
+Instructor Note: Show the Zipline clip, then ask students to identify one system risk and one community benefit (3–4 minutes discussion).
+
+
+
+
+
+?? Additional Verified Resources
+* ?? ILO — Safety & Health at Work: https://www.ilo.org/global/topics/safety-and-health-at-work/lang--en/index.htm
+* ?? NEBOSH — Safety leadership & governance: https://www.nebosh.org.uk/
+* ?? PubMed review — Drones & health logistics: https://pubmed.ncbi.nlm.nih.gov/36318579/
+* ?? POGIL interpersonal effectiveness short clips: https://pogil.org/educators/resources/video-library/interpersonal-effectiveness
+
+? Quiz / Discussion Questions
+1. Define Science, Technology, and Society in one sentence each; give one Ghanaian example for each.
+2. Name two technological revolutions and give one H&S lesson from each.
+3. Outline a 4-step pilot plan using the scientific method for drones in a district clinic; include one stop criterion.
+4. From Zipline, list two stakeholders (one government, one community) and one safety control for each.
+5. Scenario: a solar mini-grid is being installed in a village. Identify one occupational hazard and one public safety concern; propose one mitigation for each.
+
+
+
+
+
+?? References (verified 20251108)
+1. Zipline Ghana — YouTube
+2. TEDEd — YouTube
+3. CrashCourse — YouTube
+4. ILO — https://www.ilo.org/global/topics/safety-and-health-at-work/lang--en/index.htm
+5. NEBOSH — https://www.nebosh.org.uk/
+6. PubMed — https://pubmed.ncbi.nlm.nih.gov/36318579/
+7. POGIL — https://pogil.org/educators/resources/video-library/interpersonal-effectiveness
+
+
+
+
+
+
+
+
+
+
+
+?? Quick Buzzjuice Pilot Checklist
+* ? Objective (1 line)
+* ? Baseline evidence & metric(s)
+* ? Top 3 benefits & Top 3 risks
+* ? Controls, monitoring & stop/go criteria
+* ? Stakeholder & communication plan
+* ? Reporting & review schedule
+Accessibility: Attach transcripts, provide large-print checklist & short translations for local languages when publishing on LearnDash.
+
+I can also add ready-to-use Word color blocks, icons, and callout formatting so this handout is visually identical to your HTML version, just copy-paste into Word.
+Do you want me to do that next?
+
+
+BUZZJUICE COURSES					HEALTH & SAFETY 1 – v2025.1.03
+
+
+HS1500 - Science Technology & Society							page 1 of 10
+Localization: Ghana — English
+

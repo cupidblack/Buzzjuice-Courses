@@ -1,0 +1,89 @@
+EC1710 - Course Introduction & Career Selection Fundamentals
+?? Learning Objectives
+* ?? Introduce course structure, deliverables, integrity rules, and AI policy.
+* ?? Learn Career Selection Matrix: interest, aptitude, longevity, employability trend.
+* ?? Begin selecting a meaningful, sustainable career; justify choice (LMS deliverable).
+* ?? Reflect on childhood career aspirations and link to current choice.
+
+? Lesson Flow (60 Minutes)
+TimeSegmentActivity0:00–0:05WelcomeAttendance, overview, integrity & AI policy0:05–0:15Icebreaker“What I wanted to be when I grew up” — small breakout groups (2–3 students each)0:15–0:30Mini-LectureCareer Selection Matrix (Interest • Aptitude • Longevity • Demand)0:30–0:45WorkshopList 3–5 possible careers ? score with matrix ? choose 1 career0:45–0:55LMS UploadPost chosen career + 1-line rationale; download Career Report template0:55–1:00ReflectionOne-line reflection posted: “What I learned today about my career or its safety demands is…”
+?? Deliverable (This Lesson)
+* ? Post chosen career + 1-line rationale to LMS (example: “Industrial Safety Officer — motivated by interest in engineering & long-term demand in mining & construction.”).
+* ? Download Career Report Template + Submission Log.
+* ? (Optional) Join Career Club in LMS for professional networking.
+
+?? EC1711 - Career Notes (Ghana Context)
+* Fast-growing H&S fields: Construction, Energy & Renewables, Transport & Logistics, Manufacturing, Healthcare, Mining, ICT Infrastructure.
+* Long-term indicators: demand for NEBOSH, IOSH, NVTI certifications; strong regulation; transferable technical skills.
+* Avoid “dead-end” jobs: check automation risks, training support, adaptability across industries.
+* Integrity Reminder: falsifying safety/training records damages employability in regulated sectors.
+
+?? EC1712 - Career Selection Matrix
+FactorDescriptionScore (1–5)InterestPassion for the work?AptitudeSkills or education alignment?LongevityLikely to exist in 10–20 years?DemandSteady hiring in Ghana/Africa?? Add totals; high combined score = better long-term career match.
+
+?? EC1713 - Career Pathway Resources
+* CareersInGhana: https://careersinghana.com/
+* UCAS Career Explorer: https://www.ucas.com/explore/career-list
+* MyMajors Career List: https://www.mymajors.com/career-list/
+* CareerPlanner: https://www.careerplanner.com/ListOfCareers.cfm
+* NEBOSH Career Pathways: https://www.nebosh.org.uk/
+* Yen Ghana — OSH Careers & Salaries: https://yen.com.gh/119717-occupational-health-safety-courses-careers-salaries-ghana.html
+
+
+
+
+?? Short Verified Videos (?20 min total)
+* ? ILO — What is Occupational Safety and Health? (2:55)
+https://www.youtube.com/watch?v=lKIIvHGqgN8
+* ? ILO — Promoting Safe and Healthy Workplaces (5:23)
+https://www.youtube.com/watch?v=4xT1wBJ9PYw
+* ? NEBOSH — What is NEBOSH? (1:43)
+https://www.youtube.com/watch?v=wmuGh2hmwdg
+* ? NEBOSH — Qualifications for Safety Careers (3:10)
+https://www.youtube.com/watch?v=lQ5DtQF81aQ
+* ? TED-Ed — The Best Way to Become Good at Something (6:00)
+https://www.youtube.com/watch?v=IpGuMcfh9Es
+
+?? EC1714 - Case Study: Warehouse Near-Miss (Tema, 2023)
+Scenario: Night-shift near-miss due to pallet stack collapse.
+Findings: Poor stacking SOPs, inadequate lighting, untrained casual staff.
+Action: Compact HIRA conducted ? SOPs revised, staff briefed, racking inspected.
+Outcome: Zero further incidents in six months.
+Class task (10 min): List 3 hazards + risk rating + control measures for a similar Ghanaian warehouse. Use ILO video reference for prevention methods.
+
+? EC1715 - Discussion Quiz & References
+1. Reason a career can be “dead-end” & how to future-proof it?
+2. Which factor would you prioritize in Career Matrix for a trade vs corporate H&S role?
+3. One compact HIRA control for a common hazard in your chosen career?
+4. Three open questions to ask a practitioner about day-to-day risks?
+5. How to document AI assistance in your Career Report?
+
+?? Reflection Prompt
+?? “What I discovered today about aligning my career interest with industry health & safety standards is …”
+
+? Student Checklist
+? Watch one assigned video (ILO/NEBOSH/TED-Ed)
+? Complete Career Selection Matrix
+? Post chosen career + 1-line rationale on LMS
+? Download templates and plan practitioner outreach
+? Optional: Join or start a Career Club discussion
+
+References (verified 2025-11-11)
+1. ILO — What is Occupational Safety and Health? YouTube
+2. ILO — Promoting Safe and Healthy Workplaces YouTube
+3. NEBOSH — What is NEBOSH? YouTube
+4. NEBOSH — Shaping Health & Safety Careers YouTube
+5. TED-Ed — The Best Way to Become Good at Something YouTube
+6. CareersInGhana, UCAS, MyMajors, CareerPlanner, Yen Ghana
+
+?? Integrity & Evidence Policy
+* Acceptable proof: ?? email, ?? calendar invite, ?? LinkedIn screenshot, ?? short audio/video, ?? photo + consent.
+* Career Report must close with: “I confirm this report and attached evidence are authentic.” — typed name & date.
+* Random viva verifications may occur.
+
+BUZZJUICE COURSES					HEALTH & SAFETY 1 – v2025.1.03
+
+
+HS1000 — Fundamentals of Health & Safety							page 1 of 5
+Localization: Ghana — English
+
