@@ -1,0 +1,93 @@
+HS1030 — Proactive Safety: Mastering Hazard Identification & Risk Management
+?? LESSON AIM
+• Equip learners to identify workplace hazards, conduct HIRA using a 5×5 risk matrix, apply the Hierarchy of Controls, and create & maintain a practical risk register for Ghanaian workplaces.
+
+? 60MINUTE LESSON FLOW
+TimeSegmentActivity / Focus00:00–05:00Welcome & ObjectivesIcebreaker: “Post one hazard you observed today”; overview05:00–15:00Hazard Types & HIRA BasicsHazard vs Risk; 5×5 risk matrix demo; Ghana-specific examples15:00–25:00Practical HIRA WalkthroughLive hazard identification using workplace images/short clip25:00–35:00Hierarchy of ControlsPrinciples & video; match controls to demo hazards35:00–45:00Risk Register TutorialStructure, sample entries, LearnDash upload template demo45:00–52:00Case StudyGhana mini-bus accident video (~6?min) + group risk register exercise52:00–58:00Quiz / DiscussionSelect 3 of 5 provided questions for class discussion58:00–60:00Assignment BriefSubmission guidance & reflection instructions
+
+
+?? HS1031 - Hazard vs Risk
+* Hazard — potential source of harm (e.g., frayed cable, chemical spill).
+* Risk — likelihood × consequence of that harm.
+* Principle: reduce risk to ALARP (As Low As Reasonably Practicable).
+
+?? HS1032 - Common Hazard Types
+?? Physical — slips, trips, falls; moving machinery; noise
+?? Chemical — fuels, solvents, acids, gases; SDS awareness
+?? Biological — contaminated waste, pathogens, mould
+?? Ergonomic — poor posture, manual lifting, repetitive tasks
+?? Psychosocial — stress, fatigue, harassment, long/unsociable hours
+
+?? HS1033 - HIRA - 6 Practical Steps
+1. Identify task/location & list hazards (walkthroughs, staff input, SDS review)
+2. Assess consequence & likelihood using 5×5 risk matrix
+3. Calculate initial risk rating (L×C ? category)
+4. Select controls using Hierarchy of Controls (top-down)
+5. Record in Risk Register (owner, target date, residual risk, review)
+6. Implement, monitor, review regularly
+
+?? HS1034 - 5×5 Risk Matrix (example)
+Likelihood1 Rare2 Unlikely3 Possible4 Likely5 Almost CertainC1 NegligibleLowLowLowMediumMediumC2 MinorLowLowMediumMediumHighC3 ModerateLowMediumMediumHighHighC4 MajorMediumMediumHighHighExtremeC5 CatastrophicMediumHighHighExtremeExtreme
+?? HS1035 - Hierarchy of Controls
+1. Elimination — remove hazard
+2. Substitution — safer alternative
+3. Engineering — isolate people from hazard (guards, ventilation)
+4. Administrative — procedures, training, signage
+5. PPE — last line of defence (gloves, masks, goggles)
+?? Ghana Legal Callout
+* Labour Act 2003 (Act 651) & Factories, Offices & Shops Act 328 — employers must provide safe systems, PPE, training, and incident reporting.
+
+
+
+?? HS1036 - PDCA & Management System Linkage
+* HIRA fits within ISO/OSH PDCA cycle: Plan ? Do ? Check ? Act
+* HIRA outcomes feed into continuous improvement & management review
+
+?? HS1037 - CASE STUDY — Accra Mini-Bus Overload
+Scenario: Overloaded mini-bus; rain causes skid and overturn ? multiple injuries
+HazardLikelihoodConsequenceScoreControl ExampleWorn tyres4416 HEng: mandatory tyre checks; Admin: load limits & fatigue policy; PPE: seat beltsActivity: In breakout groups, identify hazards, score, select controls, update Risk Register row, upload to LearnDash.
+Systemic Case: Rana Plaza Collapse (DW Documentary, 12:23)
+https://www.youtube.com/watch?v=Mq_mTnhoxEY (cue 7–8?min)
+Discuss missed hazards, feasible controls, legal/ethical failures
+
+?? HS1039 -  Discussion Quiz & Resources (5 Questions)
+1. Define hazard & risk; give Ghanaian workplace example; score with 5×5 matrix
+2. List 5 Hierarchy of Controls levels + Ghana example
+3. Frayed extension lead — propose immediate & long-term controls
+4. Essential Risk Register columns — justify each
+5. Mini-bus case — propose one engineering & one administrative control; explain impact on risk score
+
+?? ASSESSMENT & LEARNDASH SUBMISSION
+Mandatory:
+* 1-page Risk Register (?5 entries, realistic/simulated workplace)
+* 100–150 word reflection on control selection & constraints
+Optional:
+* 60–90?sec mobile video showing hazard & suggested control
+Templates: Risk Matrix (PDF/Word), Risk Register (Excel/CSV), HIRA checklist (PDF)
+
+?? VERIFIED VIDEOS (? 20?min)
+* ILO OSH Management System (13:36) — cue 02:00–08:00
+https://www.youtube.com/watch?v=7Rg0cOBS-RE
+* NEBOSH Overview (5:30)
+https://www.youtube.com/watch?v=aqezK6LgWRE
+* OSHA Hazard Identification & Risk Assessment (6:00)
+https://www.youtube.com/watch?v=1AoHMOQsESo
+* Hazard Awareness (14:27)
+https://www.youtube.com/watch?v=WOk8VcNu74g
+* Hierarchy of Controls (2:00)
+https://www.youtube.com/watch?v=npWXxgKDA3c
+
+?? REFERENCES & RESOURCES
+* OSHA: Hazard Identification & Assessment — https://www.osha.gov/safety-management/hazard-identification
+* OSHA Hierarchy of Controls PDF — https://www.osha.gov/sites/default/files/Hierarchy_of_Controls_02.01.23_form_508_2.pdf
+* NEBOSH — https://www.nebosh.org.uk/
+* ILO — https://www.ilo.org/
+* CDC / NIOSH — https://www.cdc.gov/niosh/topics/hierarchy/default.html
+
+
+BUZZJUICE COURSES					HEALTH & SAFETY 1 – v2025.1.03
+
+
+HS1000 — Fundamentals of Health & Safety							page 1 of 5
+Localization: Ghana — English
+

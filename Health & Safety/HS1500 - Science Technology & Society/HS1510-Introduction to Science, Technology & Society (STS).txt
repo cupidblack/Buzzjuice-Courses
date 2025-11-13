@@ -15,14 +15,15 @@ Learning Outcomes: By the end of this session students will be able to:
 * ?? 45–55 min — Case study & short video: Zipline Ghana drone service — discussion
 * ?? 55–60 min — Summary, 5 quiz questions, LMS resources
 
-?? Core Concepts
+
+?? HS1511 - Core Concepts
 * ?? Science — evidencebased inquiry: observe ? hypothesise ? test ? conclude.
 * ?? Technology — practical application of scientific knowledge (tools, systems, processes).
 * ?? Society — people, institutions, norms, and economy shaping adoption and rules.
 * ?? STS loop — discovery ? prototype ? adoption ? regulation ? feedback.
 H&S note: Technology changes exposure patterns — automation may remove manual hazards but introduce system, maintenance, and humanmachine interface risks. Always assess both occupational and public safety impacts.
 
-? Historical Revolutions — H&S Takeaways
+? HS1512 - Historical Revolutions — H&S Takeaways
 1. 1st IR (mechanisation): machine guarding, injury reporting systems, factory acts
 2. 2nd IR (electricity, chemicals): standards, occupational hygiene, regulation emergence
 3. 3rd IR (computerisation): ergonomics, monitoring, psychosocial risks
@@ -31,7 +32,7 @@ Trainer tip: Link each revolution to a local Ghanaian example (e.g., rural elect
 
 
 
-?? Scientific Method — Quick Applied Steps for a Safety Pilot
+?? HS1513 - Scientific Method — Quick Applied Steps for a Safety Pilot
 1. Observe problem (baseline data)
 2. Ask testable question (clear metric: time, incident rate)
 3. Hypothesise (expected change + safety outcome)
@@ -40,7 +41,7 @@ Trainer tip: Link each revolution to a local Ghanaian example (e.g., rural elect
 6. Decide: adapt & scale, or stop
 Practical tip: Include a oneline stop criterion (e.g., >1 lost payload in 10 flights, or any injury).
 
-?? STS Analysis Tools (Practical)
+?? HS1514 - STS Analysis Tools (Practical)
 * ?? Sociotechnical map: People ? Technology ? Organisation ? Environment (identify interaction points)
 * ? Benefit–Risk list: list top 3 benefits, top 3 risks, controls, and residual risk
 * ?? Stakeholder mapping: who benefits, who is exposed, who regulates?
@@ -50,7 +51,7 @@ Use the one-line pilot checklist: Problem | Evidence | Top 3 benefits | Top 3 ri
 
 
 
-?? Case Study — Zipline: Medical Drone Delivery (Ghana)
+?? HS1518 - Case Study — Zipline: Medical Drone Delivery (Ghana)
 Overview: Zipline operates fixed-route drone deliveries of blood, vaccines, and medical supplies to remote clinics. Improved access, reduced road transport risks, but required careful airspace coordination, payload integrity processes, community engagement, and robust maintenance.
 Benefit–Risk Snapshot
 * ? Benefits: faster emergency logistics, reduced road accident exposure, improved patient outcomes
@@ -68,23 +69,18 @@ Instructor Note: Show the Zipline clip, then ask students to identify one system
 
 
 
-
-?? Additional Verified Resources
-* ?? ILO — Safety & Health at Work: https://www.ilo.org/global/topics/safety-and-health-at-work/lang--en/index.htm
-* ?? NEBOSH — Safety leadership & governance: https://www.nebosh.org.uk/
-* ?? PubMed review — Drones & health logistics: https://pubmed.ncbi.nlm.nih.gov/36318579/
-* ?? POGIL interpersonal effectiveness short clips: https://pogil.org/educators/resources/video-library/interpersonal-effectiveness
-
-? Quiz / Discussion Questions
+? HS1519 – Discussion Quiz & Resources
 1. Define Science, Technology, and Society in one sentence each; give one Ghanaian example for each.
 2. Name two technological revolutions and give one H&S lesson from each.
 3. Outline a 4-step pilot plan using the scientific method for drones in a district clinic; include one stop criterion.
 4. From Zipline, list two stakeholders (one government, one community) and one safety control for each.
 5. Scenario: a solar mini-grid is being installed in a village. Identify one occupational hazard and one public safety concern; propose one mitigation for each.
 
-
-
-
+?? Additional Verified Resources
+* ?? ILO — Safety & Health at Work: https://www.ilo.org/global/topics/safety-and-health-at-work/lang--en/index.htm
+* ?? NEBOSH — Safety leadership & governance: https://www.nebosh.org.uk/
+* ?? PubMed review — Drones & health logistics: https://pubmed.ncbi.nlm.nih.gov/36318579/
+* ?? POGIL interpersonal effectiveness short clips: https://pogil.org/educators/resources/video-library/interpersonal-effectiveness
 
 ?? References (verified 20251108)
 1. Zipline Ghana — YouTube
@@ -94,29 +90,6 @@ Instructor Note: Show the Zipline clip, then ask students to identify one system
 5. NEBOSH — https://www.nebosh.org.uk/
 6. PubMed — https://pubmed.ncbi.nlm.nih.gov/36318579/
 7. POGIL — https://pogil.org/educators/resources/video-library/interpersonal-effectiveness
-
-
-
-
-
-
-
-
-
-
-
-?? Quick Buzzjuice Pilot Checklist
-* ? Objective (1 line)
-* ? Baseline evidence & metric(s)
-* ? Top 3 benefits & Top 3 risks
-* ? Controls, monitoring & stop/go criteria
-* ? Stakeholder & communication plan
-* ? Reporting & review schedule
-Accessibility: Attach transcripts, provide large-print checklist & short translations for local languages when publishing on LearnDash.
-
-I can also add ready-to-use Word color blocks, icons, and callout formatting so this handout is visually identical to your HTML version, just copy-paste into Word.
-Do you want me to do that next?
-
 
 BUZZJUICE COURSES					HEALTH & SAFETY 1 – v2025.1.03
 

@@ -1,0 +1,95 @@
+HS1530: Foundational Safety Principles in Everyday Contexts 
+?? Lesson Aim
+To help learners understand everyday safety concepts—hazards, risks, prevention, and preparedness—and to apply foundational safety principles across home, community, and work settings in Ghana.
+
+?? Learning Outcomes
+By the end of this 60-minute session, students should be able to:
+?? Define hazard, risk, and prevention, giving Ghanaian examples.
+?? Apply the 5-step risk assessment to a real daily activity.
+?? Outline a basic home or community emergency plan.
+?? Identify human factors that influence unsafe behavior and suggest corrective actions.
+
+?? Lesson Plan (60 Minutes)
+Time (min)SegmentContent / Activity0–5Icebreaker“Name one daily hazard in your home.” (e.g., electrical wire, open flame, flooded walkway)5–15Core Concepts?? Hazard vs. Risk, ??? Prevention methods, ?? 5-Step Risk Assessment15–30Videos + Discussion?? SafetyCulture — “What is a Risk Assessment?” https://safetyculture.com/topics/risk-assessment/what-is-a-risk-assessment-video (verified) ?? ILO — Safety and Health at Work (2-min clip) https://www.ilo.org/global/topics/safety-and-health-at-work/30–45Case Study?? Accra Petrol-Station Explosion (2015) Video: https://www.youtube.com/watch?v=_oL-PnE6XQ445–55Human Factors?? Energy Institute — “Human Factors in Five Minutes” https://toolbox.energyinst.org/c/videos/human-factors-in-five-minutes55–60Quiz & Wrap-Up5 quiz/discussion questions and assignment brief
+?? HS1531 - Key Concepts (Quick Reference)
+IconConceptDefinition / Example??HazardAnything with potential to cause harm — e.g., leaking gas, overloaded socket.??RiskLikelihood × Severity — the chance that a hazard will cause harm.???Prevention / ControlHierarchy: Eliminate ? Substitute ? Engineer ? Admin ? PPE.??5-Step Risk Assessment1?? Identify hazards 2?? Identify who’s at risk 3?? Evaluate risk 4?? Control & implement 5?? Review & monitor??Emergency PreparednessHave exit routes, emergency contacts, meeting point, 72-hour kit, first-aid, radio, torch.
+?? HS1532 - Daily Safety Checklist
+Use these practical actions daily:
+?? Check electrical plugs, cords, and sockets regularly.
+?? Keep fuel or gas containers away from heat sources.
+?? Clear exits and stairways — ensure no obstructions.
+?? Prepare a home emergency kit (water, torch, radio, first aid).
+?? Apply the “2-Minute Rule”: if safe to fix quickly, do it; if not, report it.
+
+
+
+
+?? HS1533 - Human Factors in Safety
+?? Video: Energy Institute — “Human Factors in Five Minutes”
+Influencing Factors:
+* Fatigue and overwork
+* Complacency or “shortcuts”
+* Distraction and poor attention
+* Cultural or social pressure (“everyone does it this way”)
+Prevention Strategies:
+? Training and refresher sessions
+? Toolbox talks and reminders
+? Rest breaks and shift rotation
+? Leadership modeling safe practices
+? Encourage a “no-blame” reporting culture
+
+?? HS1534 - Tips & Quick Reminders
+?? Tip Box (Green background — #E6F4EA)
+“Safety starts with awareness — every hazard you ignore today may become tomorrow’s emergency.”
+?? Warning Box (Yellow background — #FFF4E5)
+“Never use wet hands to handle electrical plugs or cords.”
+?? Fact Box (Gray background — #F6F7F9)
+“Over 60% of home accidents in Ghana involve fire, electrocution, or falls — most are preventable through awareness and planning.”
+— NADMO Annual Report, 2023
+
+
+?? HS1538 - Case Study — The 2015 Accra Petrol-Station Explosion
+?? Watch: BBC News — Accra Explosion 2015 (verified live)
+Summary: Heavy rainfall and poor drainage caused petrol leakage and ignition, leading to a catastrophic fire.
+Key Points for Discussion:
+1?? Identify three hazards visible in the report.
+2?? What immediate and long-term controls could have prevented this?
+3?? Which stakeholders (station owners, regulators, NADMO) should act first, and how?
+
+?? HS1539 - Discussion Quiz & Resources
+1?? Define hazard and risk; give one Ghanaian example of each.
+2?? What are the five steps of a basic risk assessment?
+3?? Suggest three measures to prevent flood-related home hazards.
+4?? List two human factors that lead to unsafe actions and one way to reduce them.
+5?? From the Accra case study, what two immediate actions and two long-term solutions would you recommend?
+
+?? Mini-Assignment
+Write 150–250 words on a common Ghanaian daily activity (e.g., cooking with charcoal, okada riding, generator use). Include:
+* 3 hazards
+* 3 corresponding risks
+* 3 control measures (engineering, administrative, behavioral)
+Add a 30-day and 90-day safety improvement plan.
+(Optional: record a 60-second demo video of one control practice.)
+
+?? Verified Short Educational Videos
+    (All Active & Under 20 min)
+* SafetyCulture — What is a Risk Assessment?
+* ILO — Safety and Health at Work
+* Energy Institute Toolbox — Human Factors in Five Minutes
+* American Red Cross — 3 Easy Steps to Prepare for an Emergency
+* BBC News — Accra Explosion 2015
+
+?? References
+* International Labour Organization (ILO). Safety and Health at Work. https://www.ilo.org/global/topics/safety-and-health-at-work/
+* SafetyCulture. What is a Risk Assessment? https://safetyculture.com/topics/risk-assessment/what-is-a-risk-assessment-video
+* NEBOSH Learning Resources. https://www.nebosh.org.uk
+* NADMO Ghana. https://www.ndmo.gov
+* Energy Institute Toolbox. https://toolbox.energyinst.org/c/videos/human-factors-in-five-minutes
+* BBC News Ghana (2015). Accra Explosion Report.
+
+BUZZJUICE COURSES					HEALTH & SAFETY 1 – v2025.1.03
+
+
+HS1500 - Science Technology & Society							page 1 of 10
+Localization: Ghana — English
+
