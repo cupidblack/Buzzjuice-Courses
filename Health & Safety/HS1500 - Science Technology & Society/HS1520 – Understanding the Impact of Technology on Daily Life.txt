@@ -1,0 +1,120 @@
+HS1520 — Understanding the Impact of Technology on Daily Life 
+?? LESSON AIM
+Explain how technology shapes communication, work, education and leisure; understand the digital divide; evaluate local innovations and HSE implications; and design practical local mitigations for technology-related safety and wellbeing risks.
+
+? 60MINUTE LESSON FLOW (TIMED)
+00:00–05:00 — Welcome, outcomes, icebreaker: “What technology did you use today?” (Learner poll)
+05:00–15:00 — Personal communication & social interactions: benefits, risks, HSE impacts (short clip + discussion)
+15:00–25:00 — Automation & AI: effects on work, education & leisure; HSE consequences (minilecture + video)
+25:00–35:00 — The Digital Divide: access, equity, Ghana realities, quick group brainstorm
+35:00–45:00 — Innovations & modern lifestyles: mobile money, telehealth, edtech, drone logistics (case study)
+45:00–52:00 — Group breakout: local hazard/benefit mapping (upload to LearnDash)
+52:00–58:00 — Quiz / plenary discussion (choose 3 of 5 questions)
+58:00–60:00 — Assignment brief & LearnDash submission guidance
+
+
+
+
+
+? HS1521 - Hazard vs Risk
+* Hazard = source with potential to cause harm (e.g., misinformation, insecure app)
+* Risk = likelihood × consequence of harm (e.g., data breach likelihood × impact on user safety/privacy)
+* Aim: reduce harm to ALARP (As Low As Reasonably Practicable)
+
+?? HS1522 - Technology & Personal Communication
+* Benefits: instant connection, remote work/learning, telemedicine, business platforms (market access)
+* Risks: misinformation, cyberbullying, erosion of facetoface skills, privacy breaches, attention fragmentation
+* HSE impacts: increased screen time ? eye strain, sleep disruption, sedentariness, poor posture
+* Mitigations: digital breaks, ergonomic setup, verified information literacy
+
+?? HS1523 - Automation & AI
+* Benefits: reduces repetitive manual exposure to hazardous tasks, improves logistics & diagnostics
+* Risks: job displacement, algorithmic bias, complacency/over-reliance, cybersecurity vulnerabilities
+* HSE considerations: system safety, maintenance regimes, humanintheloop design, retraining & mental health supports
+
+
+
+
+?? HS1524 - Digital Divide — Dimensions & Ghana Context
+* Dimensions: Infrastructure, Affordability, Skills, Relevance
+* Ghana realities: high urban mobile penetration; rural gaps in internet, power reliability and local digital skills
+* Mitigations: community digital hubs, SMSfirst services, radio + offline learning packs, public charging stations, basic digital literacy workshops
+
+?? HS1525 - Technological Innovations & Modern Lifestyles
+* Mobile Money (e.g., MTN MoMo): financial inclusion vs fraud & stress ? mitigations: user education, transaction alerts, dispute mechanisms
+* Telehealth: increased access vs data privacy & misdiagnosis risk ? mitigations: secure platforms, clinician protocols, clear consent
+* EdTech: blended learning increases reach; risk of exclusion for lowconnectivity learners ? mitigations: blended radio/print + offline resources
+* Drone logistics (Zipline): rapid medical supply deliveries; HSE considerations include airspace safety, privacy, community acceptance
+
+?? HS1526 - Personal Wellbeing & Digital Use
+* Ergonomics: neutral posture, screen at eye level, frequent microbreaks, correct chair/table heights
+* Digital wellness: set screenfree windows, curtail night usage, verify news sources, practice mindful consumption
+
+
+?? HS1528 - Case Study — Zipline Drone Medical Delivery (Ghana)
+* Summary: Autonomous drone deliveries of blood, vaccines, and medical supplies to remote clinics — reduces delivery times and improves health outcomes.
+* HSE / STS Considerations: Faster response, improved cold-chain reliability, rural access; risks include airspace safety, emergency landings, noise, operator competence, data privacy
+* Class Activity (7–10 min):
+1. Watch BBC clip (cue 0:00–4:30)
+2. In groups, list 2 technical benefits, 2 safety/ethical risks, and propose 3 mitigations (engineering, administrative, engagement)
+3. Upload 100–150 word summary to LearnDash
+Sample mitigations
+* Engineering: geofencing, redundant navigation, emergency landing protocols
+* Administrative: maintenance schedules, licensed operators, flight corridors, reporting
+* Community engagement: pre-deployment briefings, complaint mechanisms, privacy safeguards
+
+
+
+
+
+
+
+
+? HS1529 – Quiz Discussions & Resources
+   (choose 3 in class, assign all 5 as follow-up)
+1. Identify 2 positive and 2 negative effects of smartphones on social life in Ghana. Recommend HSE mitigations.
+2. Explain the 4 main dimensions of the digital divide. Propose 1 low-cost local intervention per dimension.
+3. Choose an AI application (e.g., automated grading, clinical triage). Identify 2 HSE risks & propose controls.
+4. For Zipline: propose 1 engineering control, 1 administrative control, 1 community engagement action. Explain impact.
+5. Draft a 100-word blended learning plan for a rural school with intermittent power and limited internet.
+
+?? ASSESSMENT & LEARNDASH SUBMISSION
+   (due within 7 days)
+* Mandatory: Local Plan (? 400 words) — identify 1 technology in a Ghanaian community/workplace, list 3 HSE/social risks, propose feasible mitigations, ownership & 30-/90-day timeline
+* Optional: 60–90 sec mobile video: describe local tech benefit/hazard + one feasible control
+* Rubric highlights: Localization & clarity (30%), HSE risk identification (30%), feasibility of mitigations (25%), ownership & timeline (15%)
+
+
+
+
+?? VERIFIED SHORT VIDEOS (? 20 MINUTES)
+* Mozilla — What is The Digital Divide? — YouTube, 4:32
+https://www.youtube.com/watch?v=Y2hEiMOgc1g
+* NEBOSH — What is NEBOSH? — YouTube, 5:30
+https://www.youtube.com/watch?v=aqezK6LgWRE
+* The Future of Work — How Automation is Shaping Our Workforce — YouTube, 16:00
+https://www.youtube.com/watch?v=1zzPP9hrXtY
+* BBC — How medical drones are saving lives in Ghana — YouTube, 4:30
+https://www.youtube.com/watch?v=8l5YtAptFOY
+All videos verified accessible on 20251113.
+
+?? REFERENCES & VERIFIED RESOURCES
+Videos
+* Mozilla — Digital Divide, 4:32 — Link
+* NEBOSH — Overview, 5:30 — Link
+* Future of Work — Automation, 16:00 — Link
+* BBC — Zipline Ghana, 4:30 — Link
+Web & Reports
+* Zipline official — https://flyzipline.com/
+* GSMA — Mobile Economy SSA — https://www.gsma.com/
+* World Bank — Digital Economy Ghana — https://www.worldbank.org/
+* Data Protection Commission Ghana — https://www.dataprotection.org.gh/
+* ILO — OSH & Technology — https://www.ilo.org/
+* NEBOSH/ISO/ILO general info — https://www.nebosh.org.uk/ | https://www.iso.org/
+
+BUZZJUICE COURSES					HEALTH & SAFETY 1 – v2025.1.03
+
+
+HS1500 - Science Technology & Society							page 1 of 10
+Localization: Ghana — English
+

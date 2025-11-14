@@ -1,0 +1,110 @@
+EC1720 - Career Research & Report Structure 
+?? Lesson Aim
+Equip students to research H&S careers (Ghana & international), extract job and regulator requirements, complete a ?2-page Career Report with Compact HIRA, and begin Career Club engagement.
+
+?? Learning Outcomes
+* Identify credible Ghanaian & international job boards, regulator, and credential sources.
+* Extract role duties, qualifications, and local/regulatory requirements from online postings.
+* Draft a ?2-page Career Report and Compact HIRA (Hazard Identification & Risk Assessment).
+* Produce a concise outreach message for practitioner interviews and register for a Career Club pod.
+
+? Session Plan (60 minutes)
+TimeSegmentActivity0:00–0:05Welcome & OverviewRecap previous lesson, learning objectives0:05–0:20Live DemoJob boards, LinkedIn, NEBOSH, ILO, Ghana regulator pages0:20–0:35Template WalkthroughCareer Report + Compact HIRA live example0:35–0:50ActivityDraft career report outline + outreach message, peer-share0:50–0:58Micro-checkpointUpload draft outline & outreach message to LMS; Q&A0:58–1:00Quiz / PollQuick formative assessment; Career Club opt-in
+?? EC1721 - Verified Research Sources
+* ?? Jobberman Ghana — localized job listings
+* ?? LinkedIn Jobs — global & Ghana job postings
+* ?? NEBOSH — official qualification provider
+* ?? ILO Safety & Health at Work
+* ?? Ghana EPA — regulator site
+* ?? Ministry of Employment & Labour Relations — Ghana labour regulations
+
+?? EC1722 - Career Report — ?2 pages
+Page 1 — Career Snapshot (Header Bar in Buzzjuice Blue)
+* Role Title & Sector (1 line)
+* Key Duties (3–5 bullets)
+* Typical Work Settings & Shifts
+* Required Qualifications & Typical Local Salary Range
+* Core Competencies (Technical & Soft Skills)
+Page 2 — Career Pathway & Compact HIRA
+* Career pathway: Immediate (0–6 m), Short (6–24 m), Mid (2–5 yrs)
+* Training & certifications: essential vs recommended (NEBOSH, First Aid, local accreditations)
+
+
+
+
+
+
+
+* Compact HIRA Example:
+ActivityHazardWho’s at RiskExisting ControlsL
+(1-5)S
+(1-5)Risk (L×S)Additional ControlsPriorityFuel transfer at forecourtFuel spill ? ignitionStaff, customers, publicTraining, signage, fire extinguishers3412Spill kit, dedicated transfer zone, permitHighTip: Keep HIRA rows 1–2 lines each; Risk = Likelihood × Severity (1–5). Priority: Low 1–6, Medium 7–12, High 13–25.
+
+? EC1723 - Outreach Message Template
+Subject: Request for 15minute Informational Interview — [Role]
+Hello [Name],
+I am [Your Name], a student in the Health & Safety Diploma with Buzzjuice Courses. I’m preparing a short Career Report on [Role] in [Sector] and would greatly appreciate 20 minutes for a brief call or meet in-person or virtual, to ask focused questions about your experience and recommendations.
+Thank you for your time.
+Best regards,
+[Your Name] • [Phone] • [Email]
+
+
+
+
+
+???????? EC1724 - Career Club Pods
+* Pod size: 4–5 colleagues (create a team with your contacts) or connect with other learners, group by sector)
+* Weekly micro-task: share 1 job posting or regulator update; 2-min takeaway discussion
+* Roles rotate: Coordinator (schedules), Resource-finder (shares links), Networker (arranges interviews)
+* Platform: Buzzjuice Network + optional Telegram/WhatsApp group (consent & privacy required)
+
+?? EC1728 - Real Case Study (10–15 min)
+Scenario: Safety Officer — Construction (Ghana)
+* Extract duties, mandatory qualifications, regulator references from live posting
+* Short Video Primers:
+o Risk Assessment Training | Module 01 — 13 min
+o What is a Risk Assessment? — 6 min
+o Risk Assessment primer — 8 min
+
+? EC1729 – Discussion Quiz & Resources (5Q)
+1. Name three credible Ghanaian sources to search for H&S jobs and one regulator you would check.
+2. What two pages must your ?2page Career Report contain?
+3. How is the Compact HIRA Risk score calculated? Show with L=3, S=4.
+4. Give two focused questions for a 15minute informational interview with a Safety Officer.
+5. List two benefits of joining a Career Club pod.
+
+
+?? Micro-Checkpoint Deliverables
+1. Draft Career Report outline (bullet points ? 300 words)
+2. Draft outreach message (personalized)
+3. Career Club opt-in form (preferred sector & contact info)
+
+?? Assignment (Post-Lesson)
+* Upload draft Career Report outline + outreach message to LMS
+* Opt into a Career Club pod (select sector)
+* Instructor feedback will be provided
+
+?? Short Verified Videos
+* Risk Assessment Training | Module 01 — 13 min
+* What is a Risk Assessment? — 6 min
+* Risk Assessment primer — 8 min
+* NEBOSH — official resources
+* ILO Safety & Health at Work — global guidance
+
+? References & Verified Links
+* Jobberman Ghana — https://www.jobberman.com.gh
+* LinkedIn Jobs — https://www.linkedin.com/jobs
+* NEBOSH — https://www.nebosh.org.uk
+* ILO — https://www.ilo.org/global/topics/safety-and-health-at-work/
+* Ghana EPA — https://www.epa.gov.gh
+* MELR Ghana — https://melr.gov.gh
+* Risk Assessment Training | Module 01 — YouTube
+* What is a Risk Assessment? — YouTube
+* Risk Assessment primer — YouTube
+
+BUZZJUICE COURSES					HEALTH & SAFETY 1 – v2025.1.03
+
+
+EC1700 - Elective Course I: Industry Specific Health & Safety I				page 1 of 5
+Localization: Ghana — English
+

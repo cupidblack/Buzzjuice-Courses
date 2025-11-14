@@ -1,0 +1,110 @@
+EC1730 - Career Presentations & Interview Scheduling 
+?? Lesson Aim
+Equip learners to:
+* Deliver a concise 2–3 minute career micro-presentation.
+* Practice professional outreach and interview scheduling.
+* Secure a practitioner interview or petition a mini-case.
+* Submit acceptable scheduling evidence and maintain an Outreach Log.
+
+?? Learning Outcomes
+By the end of the session, learners will be able to:
+* ?? Deliver a structured 2–3 minute micro-presentation highlighting H&S relevance.
+* ? Compose professional outreach messages and calendar invites (GMT) with agenda and consent notes.
+* ?? Schedule an informational interview or submit a mini-case petition, uploading acceptable proof.
+* ?? Maintain an Outreach Log to track communications and evidence.
+
+? Session Flow (60 minutes)
+TimeActivity00:00–00:05Welcome, objectives, micro-checkpoint overview, evidence rules, quick poll.00:05–00:20Career micro-presentations (2–3 min each) + peer Q&A (1 question per presenter). Tutor highlights H&S relevance.00:20–00:25?? Presentation Skills Video (5:13 min) — “5 Presentation Tips for Students” YouTube link00:25–00:35Outreach & scheduling demo: draft email + calendar invite essentials. ?? Professional Emails Video (6:07 min) YouTube link00:35–00:45Live roleplay: sending outreach, rescheduling, recording consent.00:45–00:53Interview prep: common Qs, body language, time management. ?? Interview Tips Video (8:37 min) YouTube link00:53–00:57Real case study discussion (see below).00:57–01:00Micro-checkpoint: upload proof of scheduled interview or mini-case petition.
+
+
+
+
+
+
+
+
+?? HS1731 - Career Micro-Presentation Guide (2–3 minutes)
+* ? Title & Sector: Role name and industry (5–10 sec)
+* ? Why this career? Motivation & context in Ghana (20–30 sec)
+* ? Key duties & H&S relevance: Main safety tasks, common hazards (40–60 sec)
+* ? Qualifications & CPD route: Entry credentials, NEBOSH, local accreditations (20–30 sec)
+* ? Practitioner question: One targeted question to ask interviewee (15–20 sec)
+Tip: Keep slides/notes minimal — 1–2 bullets per heading.
+
+?? EC1732 - Outreach & Scheduling — Best Practices
+* ? Offer 3 proposed times (GMT) in first message.
+* ? Keep initial message ?5 sentences; state purpose & duration (20 min).
+* ? Provide a calendar invite with timezone, meeting link, agenda (3 bullets), and consent note.
+* ? Use professional signature with name, Buzzjuice Courses programme, phone, and LinkedIn.
+* ?? Outreach Log (required): 
+DateContact NameRoleMethodOutcomeEvidence File Name
+?? EC1733 - Outreach Email Template
+Subject: Request for 15-minute Informational Interview — [Role]
+Hello [Name],
+I’m [Your Name], a Health & Safety Diploma student at Buzzjuice Courses. I’m preparing a short Career Report on [Role] in [Sector] and would be grateful for a 20-minute call to ask focused questions. I’m available: [Option 1 (GMT)], [Option 2 (GMT)], [Option 3 (GMT)]. I will keep to 20 minutes and share an agenda in advance. Thank you for considering.
+Best regards,
+[Your Name] • [Phone] • [Email] • [LinkedIn]
+
+?? EC1734 - Calendar Invite Essentials
+* Title: Informational Interview — [Role] (Buzzjuice Courses)
+* Time & Duration (GMT) + timezone label
+* Meeting link (Google Meet) or phone number
+* Brief agenda (3 bullets)
+* Consent line: “This meeting may be recorded for educational use with your permission.”
+* Contact info for rescheduling
+
+? EC1735 - Evidence Rules — Acceptable Proof
+    (choose one)
+* ? Signed/typed email from interviewee (official letterhead or verified account)
+* ? LinkedIn thread screenshot (with timestamp & identity)
+* ? Calendar invite screenshot or .ics file with meeting URL
+* ? 30–90 sec audio/video clip introducing host
+* ? Photo of student + interviewee with signed consent form
+Note: Identity of interviewee must be verifiable; personal contact info may be blurred.
+
+?? HS1738 - Case Study (Ghana)
+Scenario: LinkedIn outreach success — Construction Safety Supervisor (Accra)
+* 2 emails sent — no reply
+* Used LinkedIn DM with concise ask & 3 time options ? interview scheduled within 24h
+* Evidence collected: short video clip + calendar invite
+Class Activity: In pods, write 3 targeted interview questions for a Construction Safety Supervisor. Decide which evidence you would submit. Share 1 question in the forum.
+Supporting Video (?20 min)
+* “What Does a Safety Officer Do?” — YouTube link — 8:00 min
+
+? HS1739 - Discussion Quiz & Resources
+1. List three acceptable interview scheduling evidence types.
+2. Why offer 3 time slots in your first outreach message? Give two benefits.
+3. What three items must a calendar invite include to be acceptable evidence?
+4. How would you respond if the interviewee asks for questions in advance? (brief outline)
+5. Name two advantages of joining a Career Club pod for EC1700.
+
+?? Practical Tips
+* Prepare one-page Career Snapshot to attach with outreach (role + 3 focused questions).
+* Keep timestamps & screenshots; export calendar invites as .ics files.
+* Use LinkedIn when email fails — short, polite messages often get faster responses.
+* Always document consent for recordings.
+* If no practitioner is available after 3 attempts, submit a mini-case petition.
+
+?? Mini-Case Petition
+Submit after 3 documented outreach attempts:
+* Proposed sector & learning outcomes
+* Rationale & suggested practitioner sources
+* Instructor petition request for approval
+?? Deliverables & Micro-Checkpoint
+* Upload proof of scheduled interview OR mini-case petition + outreach log.
+* Optional: upload 2–3 min micro-presentation recording for peer feedback.
+
+?? References & Verified Links
+* NEBOSH — Qualifications & pathways: https://www.nebosh.org.uk/qualifications/
+* ILO — Safety & Health at Work: https://www.ilo.org/global/topics/safety-and-health-at-work/
+* 5 Presentation Tips for Students — YouTube
+* Professional Emails + Email Etiquette — YouTube
+* Interview Tips: Body Language & Common Questions — YouTube
+* What Does a Safety Officer Do? — YouTube
+
+BUZZJUICE COURSES					HEALTH & SAFETY 1 – v2025.1.03
+
+
+EC1700 - Elective Course I: Industry Specific Health & Safety I				page 1 of 7
+Localization: Ghana — English
+
