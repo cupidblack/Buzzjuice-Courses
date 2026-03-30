@@ -1,376 +1,560 @@
 REGISTRATION & ORIENTATION
 
-?? LearnDash Lesson Module � Orientation Lesson 1
-Lesson Title: Welcome & Platform Tour
+Here is the refined and updated introduction script for the Buzzjuice Courses — Registration & Orientation, based on all provided requirements and previous drafts. This concise script sets the right expectations, covers all core processes (including the BUS1300 Affiliate Program pathway), communicates compliance early, and motivates the user.
 ________________________________________
-Lesson Introduction
+Buzzjuice Courses — Registration & Orientation
+Updated 30/03/2026
+________________________________________
 Welcome to Buzzjuice Courses!
-This lesson will help you become familiar with the learning platform before you begin your Health & Safety courses. By the end of this module, you will:
-�	Understand how to navigate the platform and access your courses.
-�	Know how to update and complete your BuddyBoss profile (a key step in your registration).
-�	Identify where to find support resources, help articles, and community forums.
-�	Gain confidence using the dashboard, menus, and course features.
-This lesson is designed to take 5�7 minutes to complete. It is a prerequisite for the Registration & Orientation assessment later in this program.
+Buzzjuice Courses gives you the learning, digital credentials, and income opportunities you need – all on a single platform designed for education, compliance, and growth.
+This short orientation (about 60–75 minutes) will show you how to:
+•	Set up your profile and registration info
+•	Understand course structure, subscriptions, and access rules
+•	Know the requirements for platform use and earning potential
+•	Get ready for assessments and understand support options
+•	Receive your first intro to the Buzzjuice Affiliate Program (BUS1300)
 ________________________________________
-Topic 1: Navigating the Platform
-�	Dashboard Overview:
-When you log in, your dashboard shows your enrolled courses, announcements, and profile links.
-�	Courses Page:
-Access the �Courses� page via the bottom menu or sidebar. Here you�ll see:
-o	Course List (active and available courses).
-o	Lessons and topics with progress indicators.
-o	Quizzes, assignments, and forums linked to each course.
-�	Groups & Forums:
-Join discussion groups to collaborate, ask questions, and share resources.
-?? Action Step: Explore the dashboard now. Locate the �Courses� and �Groups� menu items.
+What You’ll Do in this Orientation
+You’ll complete seven streamlined lessons (each about 5 minutes) and finish with a one-time, 20-minute quiz (20 questions, 70% needed to pass, 3 attempts max).
+When you pass, you’ll unlock the “Registered & Oriented” badge/certificate and gain full access to your Courses Landing Page for all Buzzjuice programs.
 ________________________________________
-Topic 2: Updating Your Profile
-Your BuddyBoss profile serves as your official registration record. Incomplete profiles may block access to certain Health & Safety course assessments.
-1.	Navigate to Profile ? Edit Profile.
-2.	Complete all required fields:
-o	Full name
-o	Email address
-o	Academic history (last institution attended)
-o	Health insurance information or preferred medical center
-o	Emergency contact details
-3.	Upload a clear profile photo (recommended).
-?? Action Step: Update your profile now. Make sure required fields are filled before moving forward.
+Important: Registration & Identity Confirmation
+To progress and unlock future earning opportunities (especially with the affiliate program), you’ll need to complete your profile and verify your identity:
+•	Ghanaian citizens: Ghana National ID
+•	Non-Ghanaians outside Ghana: Valid national ID or passport
+•	Non-Ghanaians living in Ghana: Foreigner’s Ghana Card and valid Ghana work permit
+Be sure to have your documents ready when prompted.
 ________________________________________
-Topic 3: Course Structure & Progress
-Each course contains:
-�	Lessons: main learning units with text, video, or PDFs.
-�	Topics: sub-sections under lessons for detailed concepts.
-�	Quizzes/Assignments: short tests or tasks at the end of lessons.
-�	Completion Rules:
-o	Some lessons require passing the quiz before moving on.
-o	Final assessments require a 70% pass rate.
-?? Action Step: Open a sample lesson in the Orientation course to see how lessons, topics, and progress tracking work.
+Explore More Than Learning: Affiliate Program (Preview)
+After orientation, you’ll be able to choose from several course pathways.
+Ready to earn? The BUS1300 — Affiliate Management course will introduce you to affiliate marketing via the Koware model:
+•	Get started free: Foundation lessons are open to all
+•	Learn practical skills and compliance fundamentals
+•	When ready to advance and earn, submit your ID/KYC, pass the affiliate onboarding assessment, and activate the Jewel Affiliate Subscription for advanced (gated) content and commission access
+Support is available at every point, with clear help channels and community groups.
 ________________________________________
-Topic 4: Finding Support
-If you encounter problems, help is available:
-�	Help & Support Email: support@buzzjuice.net
-�	Community Groups: join forums to ask questions.
-�	FAQ Section: check common issues about subscriptions, login, or course access.
-�	Announcements Group: stay updated on new courses, timetable changes, and bylaw updates.
-?? Action Step: Bookmark the Support email and join the �Announcements� group for future updates.
+What Happens After This?
+When you complete orientation and pass the quiz, you’ll:
+•	Earn your digital badge and certificate
+•	Open your personalized Courses Landing Page
+•	Choose to start Health & Safety courses or BUS1300 — Affiliate Management and more
+•	Maintain your subscription to keep access open
+________________________________________
+Your Success Journey Begins
+Follow each lesson, take notes, and complete all steps as guided.
+This one-time orientation unlocks your full academic and earning journey on Buzzjuice Courses.
+________________________________________
+Ready to begin? Let’s get started!
+________________________________________
+
+
+
+
+
+
+
+
+
+
+Here is an updated, LMS-ready script for Lesson 1: Platform Navigation & Registration—deduplicated, tailored to roughly 5 minutes, action-oriented, and tightly aligned with platform and compliance needs, including the affiliate pathway preview.
+________________________________________
+📘 Lesson 1: Platform Navigation & Registration
+Lesson 1: Platform Navigation & Registration
+________________________________________
+🎬 Lesson Introduction
+Welcome! In this first lesson, you’ll discover how to find your way around Buzzjuice Courses and how to properly set up your account. Completing these steps is required to unlock every other course and opportunity on the platform—including specialized tracks like Health & Safety and Affiliate Management.
+By the end of this lesson, you’ll:
+•	Navigate your dashboard, courses, and community spaces
+•	Complete your personal profile setup (required for access and certificates)
+•	Preview ID (KYC) requirements for full access and future earning potential
+•	Know where to find help and updates
+________________________________________
+1️⃣ Navigating the Platform
+When you sign in, you’ll see your Dashboard—this shows your enrolled courses, latest announcements, and profile shortcuts.
+Key navigation areas:
+•	Courses: See all available and active courses, check your lessons/quizzes, and monitor your progress
+•	Groups/Community: Join communities for discussion, Q&A, or support
+•	Notifications: Get updates on your activities and system alerts
+🔎 Action Step:
+Pause to explore: Open the Courses page, check out Groups, and locate your Notifications bell.
+________________________________________
+2️⃣ Completing Your Profile
+Your profile on Buzzjuice acts as your registration record and is mandatory to unlock courses, quizzes, badges, and certificates.
+How to complete your profile:
+1.	Go to Profile > Edit Profile
+2.	Fill in all required details:
+o	Full Name (matches your ID)
+o	Email Address (active)
+o	Academic History (last institution)
+o	Health/Medical Info (or preferred medical center)
+o	Emergency Contact
+3.	Upload a clear profile photo (highly recommended)
+⚠️ Incomplete profiles will block you from progressing or earning certificates.
+📝 Action Step:
+Pause now and fully update your profile, making sure every required field is accurate.
+________________________________________
+3️⃣ Know Your Customer & Identity Requirements
+To unlock advanced features—especially Affiliate Management—you must verify your identity (Know Your Customer, KYC):
+•	Ghanaian citizens: Ghana National ID
+•	Non-Ghanaians outside Ghana: Any valid national ID or passport
+•	Non-Ghanaians in Ghana: Foreigner's Ghana Card and valid Ghana work permit
+Tip: Your profile details (name, date of birth, etc.) must match your official ID later on for smooth approval.
+________________________________________
+4️⃣ Platform Access & Next Steps
+•	Orientation comes first. You must complete this orientation (all lessons + final quiz) before accessing any other course.
+•	The Courses Landing Page (Health & Safety, BUS1300 Affiliate) unlocks after successful orientation and quiz (with an active subscription).
+All your course, lesson, and quiz progress is automatically tracked on your dashboard.
+________________________________________
+5️⃣ Finding Support
+If you need assistance:
+•	Support Email: support@buzzjuice.net
+•	Community Groups: Ask questions and get help from peers
+•	FAQ Section: Find quick answers about registration, subscriptions, or tech
+•	Announcements Group: Join for real-time updates on courses, events, and policies
+Action Step:
+Bookmark the support email, and join the Announcements group for critical updates.
 ________________________________________
 Lesson Summary
-In this lesson, you learned:
-�	How to navigate the Buzzjuice Courses platform.
-�	How to update your BuddyBoss profile.
-�	The structure of courses and progress requirements.
-�	Where to find help and support.
-? Next Step: Mark this lesson complete to continue to Lesson 2 � Subscriptions & Pricing.
+You’ve just learned how to:
+•	Navigate Buzzjuice and its courses/group structure
+•	Complete your profile for registration and eligibility
+•	Preview KYC requirements to avoid any delays
+•	Find help whenever you need support or updates
+✅ Next: Mark this lesson complete to move on to Lesson 2: Course Structure & Progress.
+________________________________________
+Tip: Your completed profile is the foundation for every credential, badge, and earning opportunity on Buzzjuice. Don’t skip it!
+________________________________________
 
-?? Lesson 2 � Subscriptions & Pricing
-Lesson Introduction
-Welcome to Lesson 2 of the Registration & Orientation program.
-In this lesson, you will learn how Buzzjuice subscriptions work, why they are required for access to courses, and how to manage payments and renewals.
-Your subscription is not just a fee � it is your registration key that unlocks course access, keeps your account active, and ensures you remain in good standing. Understanding the subscription tiers and rules will help you avoid interruptions in your learning journey.
+
+
+
+
+
+
+
+
+
+
+
+
+📚 Lesson 2: Course Structure & Progress
+Lesson 2: Course Structure & Progress
 ________________________________________
-?? Topic 1: Why Subscriptions Are Required
-�	All Buzzjuice Courses operate on a subscription model.
-�	The subscription covers your registration fee and enables access to exclusive learning content.
-�	Without an active subscription, you will not be able to:
-o	Take the Registration & Orientation final assessment.
-o	Access Health & Safety course quizzes or graded activities.
-o	Earn certificates or badges.
-?? Key Point: An active subscription is the foundation of your registration.
+🎬 Lesson Introduction
+Welcome to Lesson 2!
+A clear path is the key to successful learning. In this lesson, you’ll discover exactly how Buzzjuice organizes its courses and how your progress is tracked. By understanding the system now, you’ll avoid confusion, stay motivated, and move quickly toward your goals—regardless of which track you choose, including the Affiliate program.
+You will learn:
+•	The building blocks of Buzzjuice courses—Course > Lesson > Topic > Quiz
+•	How to monitor your own progress with visual indicators
+•	Why some content may appear “locked” and how to unlock it
+•	That every Buzzjuice program, including BUS1300, uses this same user-friendly format
 ________________________________________
-?? Topic 2: Subscription Plans & Pricing
-Buzzjuice offers four subscription options. You can choose the plan that best suits your study schedule:
-Plan	Duration	Price	Cost per Month (approx.)
-Monthly	27 days	27 GHC	27 GHC
-Quarterly	3 months (90 days)	50 GHC	~16.6 GHC
-Semi-Annual	6 months (180 days)	84 GHC	14 GHC
-Annual	12 months (365 days)	150 GHC	12.5 GHC
-�	Longer plans offer better value per month.
-�	You may upgrade, downgrade, or renew your plan at any time from your Account > Subscriptions page.
-�	Payments are securely processed through WooCommerce Subscriptions.
-?? Tip: Choose a longer plan if you want uninterrupted access and lower monthly cost.
+1️⃣ Course Structure: The Buzzjuice Learning Flow
+All Buzzjuice programs, from Health & Safety to Affiliate Management, use the same simple flow:
+•	Course: The full program (example: BUS1300 — Affiliate Management)
+o	Lessons: Key sections (usually ~5 minutes each)
+	Topics: Short, focused parts within lessons—can be readings, activities, or bite-size videos
+	Quizzes/Assignments: Assess what you’ve learned; required for advancing in some cases
+Example Structure:
+BUS1300 → Lesson: Financial Planning → Topic: Commission Math → Quiz: Tier 1 Payout Calculation
 ________________________________________
-?? Topic 3: Payment Rules & Renewals
-�	Auto-renewal: By default, subscriptions automatically renew. You can cancel auto-renewal in your account settings.
-�	Failed payments: If your payment fails, your account will temporarily lose access until payment is resolved.
-�	Renewal reminders: Emails will be sent 7 days and 1 day before your renewal date.
-�	Cancellation: Cancelling a subscription ends access at the end of your current billing period.
-?? Important: Losing your subscription mid-course will immediately block access to Health & Safety content until you renew.
+2️⃣ Tracking Your Progress
+Buzzjuice lets you see your progress at a glance:
+•	Progress Bars: Each course and lesson displays the percent you’ve completed
+•	Lesson/Topic Status: Completed, in-progress, or locked
+•	Automatic Updates: Mark lessons as “complete” as you go; dashboard updates automatically
+👉 Action Step:
+Open this Orientation course and check the progress bar. See what’s unlocked or locked and how your actions affect your status.
 ________________________________________
-?? Topic 4: Subscription + Orientation Rules
-�	To attempt the Registration & Orientation final quiz, you must have an active subscription.
-�	Completing orientation gives you the �Oriented� role in your account.
-�	To continue into Health & Safety courses, you must:
-1.	Have an active subscription, and
-2.	Pass the Orientation quiz with at least 70%.
-?? Both subscription and orientation status are required for access.
+3️⃣ Gating & Prerequisites: Why Is Content Locked?
+To keep learning sequenced and fair, some content is “gated” until you finish required steps.
+You’ll need to:
+•	Complete every lesson and topic in Orientation
+•	Pass the Orientation quiz (active subscription required)
+This process repeats across all Buzzjuice programs—BUS1300 cannot be started until Orientation is complete.
+If you find a lesson or quiz “locked”:
+Check for incomplete lessons/topics or missing prerequisites. Your dashboard always tells you what to do next.
 ________________________________________
-?? Topic 5: Refunds & Support
-�	Refund policy: Refunds are only available if you cancel within 7 days of your first subscription payment and have not yet attempted a course quiz.
-�	Support: For billing issues, contact:
+4️⃣ Consistency Across All Programs
+Whether you’re enrolled in Health & Safety, BUS1300 — Affiliate Management, or a future course, the structure and tracking will always work the same way.
+•	Predictable navigation
+•	Consistent progress tracking
+•	Uniform requirements and gating
+Master Orientation once—and you’ll feel at home in any Buzzjuice program.
+________________________________________
+5️⃣ Success Tips
+•	Always mark lessons/topics as “complete” before moving on
+•	Watch your progress bars to stay motivated and on track
+•	If something is locked, double-check the previous steps or your dashboard for requirements
+•	Use the dashboard to quickly jump to open lessons or review your current standing
+________________________________________
+📋 Lesson Summary
+You now know:
+•	Every Buzzjuice course uses the Course > Lesson > Topic > Quiz structure
+•	Your progress is always tracked and visible
+•	Locked content means a prerequisite is needed—just check your dashboard!
+•	This system is the same for every course, including BUS1300 Affiliate Management
+________________________________________
+✅ Next: Mark this lesson complete and move to Lesson 3: Subscriptions & Gating.
+Tip: Mastering the course structure means smoother progress, quicker certification, and less stress—no matter which pathway you choose!
+________________________________________
+
+
+
+
+Here is a fully updated, LMS-ready script for Lesson 3: Subscriptions & Gating, reflecting your specific requirements, firmly connecting Health & Safety and affiliate (BUS1300) logic, and streamlined for a ~5-minute delivery.
+________________________________________
+📑 Lesson 3: Subscriptions & Gating
+Lesson 3: Subscriptions & Gating
+________________________________________
+🎬 Lesson Introduction
+Welcome to Lesson 3!
+In this lesson, you’ll discover how subscriptions and course “gating” work together to manage access to all Buzzjuice programs, including Health & Safety and the Affiliate Management track (BUS1300). Understanding these rules is crucial for uninterrupted progress and eligibility for certificates and affiliate earnings.
+By the end, you’ll know:
+•	Why you need a subscription
+•	Which plans are available & how to choose
+•	What “gating” means and how it affects access
+•	How to restore access if your subscription lapses or orientation status expires
+•	The special rules for BUS1300 Affiliate access
+________________________________________
+1️⃣ Why Subscriptions Are Required
+•	Your subscription is the key that unlocks Buzzjuice.
+•	All core features—including the Orientation final quiz, Health & Safety modules, and affiliate (BUS1300) advanced lessons—require an active subscription.
+•	Subscriptions help maintain fairness, quality, and sustainability of the program.
+Key Point: No subscription = no access to assessments, certificates, or advanced content.
+________________________________________
+2️⃣ Subscription Plans & Pricing
+Buzzjuice offers four plans for maximum flexibility:
+Plan	Duration	Price	Cost/Month
+Monthly	30 days	27 GHC	27 GHC
+Quarterly	90 days	50 GHC	~16.6 GHC
+Semi-Annual	180 days	84 GHC	14 GHC
+Annual	365 days	150 GHC	12.5 GHC
+•	Longer plans = best monthly savings.
+•	Upgrade, downgrade, or renew at any time via Account → Subscriptions.
+•	Secure payments. Renewal reminder emails go out 7 days and 1 day before expiry.
+Tip: Pick a longer plan for lower overall cost and no study interruptions!
+________________________________________
+3️⃣ Auto-Renewal, Payment Rules & Losing Access
+•	Auto-renewal is enabled by default (can turn off any time).
+•	Failed payment? Lose access until payment is fixed.
+•	Cancel? Access continues until current billing period ends, then locks.
+•	Mid-course expiry? You are instantly locked out of all “exclusive” material—renew to continue.
+________________________________________
+4️⃣ Gating: How Platform Access is Controlled
+Gating means content is “locked” unless you meet BOTH requirements:
+1.	Active subscription
+2.	Completed Orientation (“Oriented” status)
+If you’re missing either:
+•	You’ll be redirected to renew or complete Orientation
+•	All Health & Safety and advanced affiliate content uses this system (look for the “exclusive-content” tag)
+________________________________________
+Special Affiliate (BUS1300) Gating:
+•	Lessons 1–4: FREE to all users who pass Orientation
+•	Advanced affiliate lessons/features:
+o	Complete affiliate activation and KYC
+o	Purchase the Jewel Affiliate subscription (required to access payouts, advanced dashboards, and leadership content)
+________________________________________
+5️⃣ Refunds & Support
+•	Refund policy: Only if you cancel within 7 days of first subscription payment and haven’t yet attempted a course quiz.
+•	For all billing, payment, or subscription help:
 o	Email: support@buzzjuice.net
-o	Support Page: [Buzzjuice Support Portal] (link placeholder)
-�	Always include your order number in support requests.
-?? Reminder: If you experience subscription issues, contact support quickly to avoid losing course progress.
+o	Provide your order number for the fastest support
+Reminder: Reach out quickly if you have any subscription or renewal issues so you don’t lose course progress.
 ________________________________________
-?? Summary
-By now, you should understand:
-1.	Why subscriptions are required.
-2.	The four subscription plans and their pricing.
-3.	The rules for payment, renewal, and cancellation.
-4.	How subscriptions and orientation work together to unlock Health & Safety courses.
-5.	Where to find refund policies and support.
+6️⃣ Restoring Access & Lapsed Status
+•	Lose subscription? Just renew to unlock courses/assessments again.
+•	Orientation expired? (after 152 days): You’ll be required to redo the Orientation to regain full access.
+•	Your dashboard will always show what’s needed to restore your status.
 ________________________________________
-? Next Steps
-�	Review your current subscription or purchase one if you haven�t already.
-�	Make sure auto-renewal settings are correct in your account.
-�	Prepare to test your knowledge of subscription rules in the Orientation Final Assessment.
+📋 Lesson Summary
+You now understand:
+•	Why subscriptions are required, and the plans available
+•	How “gating” protects course integrity and controls access to all advanced features
+•	That both subscription and Orientation completion are required for Health & Safety and affiliate program progress
+•	What to do if access lapses—and where to get help
+________________________________________
+✅ Next Step: Mark this lesson complete to move to Lesson 4: Support & Community.
+Tip: Keep your subscription active and profile up to date for the smoothest learning and earning experience!
+________________________________________
+Optional Video:
+How Subscriptions Unlock Buzzjuice Courses and Affiliate Content ([Link Placeholder], duration: 2–3 min)
+________________________________________
 
 
-?? LearnDash Lesson: Lesson 3 � Access Rules & Gating
-Lesson Title:
-Access Rules & Gating
-Lesson Introduction:
-Welcome to Lesson 3 of the Buzzjuice Registration & Orientation program.
-In this lesson, you�ll learn how Buzzjuice Courses manage access to Health & Safety content using subscription plans, orientation status, and gating rules. These rules ensure fairness, protect course integrity, and guarantee that only prepared learners access exclusive material.
+
+
+Here is the updated, action-oriented script for Lesson 4: Support & Community—streamlined for a 5-minute LMS experience, clearly integrating support, community, and responsible conduct for both learning and future affiliate success.
+________________________________________
+🤝 Lesson 4: Support & Community
+Lesson 4: Support & Community
+________________________________________
+🎬 Lesson Introduction
+Welcome to Lesson 4!
+Buzzjuice is more than just online content—it’s a connected community designed to help you learn, solve problems, and succeed.
+You’ll discover where to get help, how to join discussions, and what it means to be a positive, professional learner in this environment.
+After this lesson, you will:
+•	Know how and where to seek support
+•	Be ready to actively participate in courses and groups
+•	Understand the importance of respectful, ethical behavior as a Buzzjuice community member and affiliate candidate
+________________________________________
+1️⃣ Support Channels: Getting the Help You Need
+Buzzjuice gives you multiple ways to access help—don’t hesitate to use them!
+•	Email: support@buzzjuice.net (technical, billing, account issues)
+•	BuddyBoss Groups: Join "Support & Help" for peer troubleshooting, and "Announcements" for course/platform updates
+•	FAQ & Guides: Visit your dashboard Help Center for answers to common questions
+•	Admin Support Hours: Live help from admins, Monday–Friday, 9 AM–5 PM GMT
+Tip: Before emailing support, check notifications, FAQs, or group discussions—you may find a quick answer.
+Action Step:
+Join the "Support & Help" and "Announcements" groups now so you’re always in the loop.
+________________________________________
+2️⃣ Community Engagement: Learn and Grow Together
+•	Why join groups and forums?
+o	Get support and advice from peers or mentors
+o	Share your experiences and help others
+o	Stay updated on new content, events, or opportunities (especially important for affiliate networking!)
+•	How to engage well:
+o	Ask clear, respectful questions
+o	Answer or encourage others when possible
+o	Be supportive, collaborative, and willing to learn
+Active members build confidence, progress faster, and stand out for affiliate roles or leadership positions.
+Action Step:
+Post a brief introduction in the “Support & Help” group (or another community of your choice).
+________________________________________
+3️⃣ Responsible Conduct: Foundations of Professionalism
+Buzzjuice thrives when every member:
+•	Communicates clearly, honestly, and respectfully
+•	Avoids spam, misinformation, and negative or offensive language
+•	Reports misconduct appropriately (use built-in tools or contact support)
+•	Follows all bylaws and platform rules (detailed in the next lesson)
+Note: Consistent positive conduct is required for continued platform participation and to hold affiliate or leadership positions.
+________________________________________
+4️⃣ Effective Use of Support
+•	Ask for help early—if you’re stuck on content, tech, or payments, reach out!
+•	When writing support, include:
+o	Which lesson or issue you’re having
+o	Screenshots (if needed)
+o	Your order number (for billing issues)
+•	Check your email and dashboard notifications for timely responses or updates
+________________________________________
+📋 Lesson Summary
+You’ve learned:
+•	How to access all major support channels—email, groups, FAQs, and live admin help
+•	Why and how to engage productively in the community
+•	The essentials of respectful, professional conduct for learning and earning success
+•	That your participation and attitude influence both your own success and your eligibility for roles like affiliate
+________________________________________
+✅ Next: Mark this lesson as complete to continue to Lesson 5: Platform Bylaws, Conduct & Assessment Rules.
+Tip: A little participation goes a long way—help the community, and the community will help you!
+________________________________________
+Optional Video Suggestion:
+Title: “Getting Help & Participating in Buzzjuice”
+Duration: 2–3 min (Add link when available if produced.)
+________________________________________
+
+
+Here is a clear, action-driven script for Lesson 5: Platform Bylaws, Conduct & Assessment Rules, crafted for a ~5-minute LMS window, and designed to prepare both general learners and prospective affiliates for the standards and policies required for full Buzzjuice participation.
+________________________________________
+⚖️ Lesson 5: Platform Bylaws, Conduct & Assessment Rules
+Lesson 5: Platform Bylaws, Conduct & Assessment Rules
+________________________________________
+🎬 Lesson Introduction
+Welcome to Lesson 5!
+A fair, supportive learning environment depends on everyone following a clear set of rules and standards.
+This lesson covers the bylaws, conduct expectations, and assessment policies that apply to all Buzzjuice learners—including affiliates.
+Agreeing to these is your next step before gaining certificates or earning opportunities.
+________________________________________
+1️⃣ What Are Buzzjuice Bylaws?
+Buzzjuice operates on bylaws—adapted from the Koware system—that apply to all courses, forums, clubs, and groups.
+Categories of bylaws:
+1.	Terms & Conditions: Your rights and responsibilities as a member
+2.	Rules & Regulations: Academic honesty, group participation, and acceptable use
+3.	Policies & Procedures: How assessments, appeals, and complaints are managed
+4.	Privacy Policy: Data protection and confidentiality for your records
+5.	Torah Bylaws: Reference only; not subject to change
+Action Point:
+Review the full bylaws via the “Bylaws & Policies” group in the community forums.
+________________________________________
+2️⃣ Required Conduct & Professionalism
+Everyone on Buzzjuice must:
+•	Treat others respectfully—online and in person
+•	Avoid plagiarism, cheating, and use of unauthorized resources
+•	Use group and forum spaces constructively (no spam, trolling, or negativity)
+•	Abide by platform and course rules
+•	Group or club creators are responsible for the conduct of their members
+Consequences for misconduct may include:
+•	Suspension from courses or clubs
+•	Account removal for repeated/serious offenses
+Consistently positive conduct is also required for any affiliate or leadership opportunities.
+________________________________________
+3️⃣ Assessment Rules & Fair Play
+Good assessments ensure everyone earns their certificate fairly:
+•	Eligibility: Only users with an active subscription and who completed all orientation lessons can take assessments.
+•	Orientation Quiz:
+o	20 questions, 20 minutes, 70% to pass, up to 3 attempts
+o	Individual work only—no answer sharing or outside help
+•	Retake Policy:
+o	After 3 failed attempts, you must contact support for manual review
+•	Certificates: Passing orientation earns you the Oriented role, certificate, and a badge (valid 152 days)
+•	Record Security:
+o	All records are monitored for integrity
+o	After expiry or if you lapse, you must retake orientation for certificate renewal
+Affiliate & Health & Safety Courses:
+•	Some lessons/quizzes are locked until you pass required assessments
+________________________________________
+4️⃣ High Standards Apply to All Paths
+•	These rules apply equally to Health & Safety, affiliate (BUS1300), and all other Buzzjuice programs.
+•	Professional, honest participation is mandatory for earning certificates, badges, commissions, or taking on platform leadership.
+Everyone’s trust, progress, and platform credibility depend on you upholding these standards.
+________________________________________
+📋 Lesson Summary
+This lesson covered:
+•	The main categories of Buzzjuice bylaws and where to review them
+•	What responsible participation looks like
+•	Quiz, assessment, retake rules, and why honesty matters
+•	How these rules support your learning, certification, leadership, or earning journey
+________________________________________
+✅ Next Step:
+You must acknowledge—electronically or on-screen—that you have read and understood these bylaws, conduct rules, and assessment policies before starting your Orientation quiz.
+When ready, mark this lesson complete to unlock the Orientation Final Assessment.
+Need clarification? Post in the Bylaws & Policies group or email support@buzzjuice.net.
+________________________________________
+Optional Video Suggestion:
+Title: “Integrity & Fair Play: Bylaws and Assessment Success on Buzzjuice”
+Duration: 2–3 minutes
+Link: Add here when produced
+________________________________________
+Here is a fully updated, action-focused script for Lesson 6: Introducing the Buzzjuice Affiliate Program (BUS1300). This script provides a clear orientation to the affiliate pathway, compliance, how to start, gating, and the core earning structure—streamlined for a ~5-minute LMS delivery.
+________________________________________
+🚀 Lesson 6: Introducing the Buzzjuice Affiliate Program (BUS1300)
+Lesson 6: Introducing the Buzzjuice Affiliate Program (BUS1300)
+________________________________________
+🎬 Lesson Introduction
+Welcome to Lesson 6!
+Buzzjuice isn’t just a place to learn—it’s also a place to earn, ethically and professionally, through the BUS1300 Affiliate Management Program. This lesson gives you a step-by-step preview of what the affiliate opportunity looks like, how you can get started, and what’s required for success.
 By the end of this lesson, you will:
-�	Understand which courses require a subscription.
-�	Know what the �exclusive-content� tag means.
-�	Recognize why Orientation completion (Oriented status) is required.
-�	Learn what happens if a subscription expires or lapses mid-course.
-�	Be able to explain the steps needed to restore access after expiry.
+•	Know what BUS1300 is and how affiliate marketing works at Buzzjuice
+•	Understand eligibility and compliance requirements
+•	See how the multi-step onboarding and earning process works
+•	Get ready to explore earning pathways after orientation
 ________________________________________
-Topic 1: Why Gating Exists
-Content:
-Buzzjuice Courses use gating rules to make sure that learners are properly prepared and have active subscriptions before accessing exclusive Health & Safety content.
-Gating exists for three main reasons:
-1.	Fair access � Only subscribers who support the platform financially can access advanced training.
-2.	Quality assurance � Orientation ensures you understand the rules before starting Health & Safety courses.
-3.	Integrity � Prevents users without registration or expired orientation from bypassing requirements.
-Think of gating as a secure doorway: only learners with the right keys (subscription + orientation pass) can enter.
+1️⃣ What is BUS1300 — Affiliate Management?
+BUS1300 is Buzzjuice’s official pathway to becoming a certified affiliate marketer, built on the proven Koware multi-tier commission model.
+Key highlights:
+•	Free to start: Foundation lessons (1–4) are available immediately after completing orientation.
+•	Earn as you learn: Earn commissions not just on your referrals, but as your network grows—up to 5 levels deep.
+•	Comprehensive: Train in ethical promotion, digital marketing, campaign tracking, payouts, and platform compliance, all inside Buzzjuice’s regulated system.
+•	Practical onboarding: Includes hands-on checklists, platform tools, and peer/community support.
 ________________________________________
-Topic 2: The Role of Subscriptions
-Content:
-To access any exclusive course, lesson, or quiz, you must hold an active subscription.
-?? Buzzjuice subscription plans:
-�	27 GHC per month
-�	50 GHC every 3 months
-�	84 GHC every 6 months
-�	150 GHC every 12 months
-If your subscription expires:
-�	You will be redirected automatically to the subscription purchase page when trying to access exclusive content.
-�	You must renew to continue learning.
+2️⃣ How to Become a Buzzjuice Affiliate (Step-by-Step)
+Follow these steps to unlock your earning pathway:
+1.	Complete Registration & Orientation
+– Finish orientation lessons and pass the quiz.
+2.	Access BUS1300 on the Courses Landing Page
+– The program becomes available only after orientation is complete.
+3.	Complete Foundation Lessons 1–4 (Free):
+– Affiliate marketing basics, platform navigation & tracking, financial planning, onboarding & KYC.
+4.	Provide your KYC documents when prompted:
+– Ghanaian citizens: Ghana National ID
+– Non-Ghanaians: Valid passport/ID
+– Non-Ghanaians (in Ghana): Foreigner’s Ghana Card + valid work permit
+(This is for legal, payout, and compliance purposes.)
+5.	Pass the Affiliate Activation Assessment:
+– Demonstrates your understanding of compliance, ethical conduct, and program rules.
+6.	Activate the Jewel Affiliate Subscription:
+– Unlocks all advanced affiliate lessons (Lessons 5–8), dashboards, commissions, and your full earning potential. Payment options include mobile money, card, or bank transfer.
 ________________________________________
-Topic 3: The Exclusive-Content Tag
-Content:
-Certain courses, lessons, and quizzes are labeled with the �exclusive-content� tag.
-This means:
-�	The system checks for your subscription status before loading the page.
-�	If your subscription is inactive, you�ll be redirected to the subscription purchase page.
-�	If your subscription is active but orientation is incomplete, you�ll be prompted to finish Orientation first.
-Example:
-If you try to access a Health & Safety quiz without an active subscription, you�ll be redirected to the subscription page.
+3️⃣ Gating, Eligibility & Getting Support
+•	Gating: BUS1300 is only visible after you finish orientation.
+•	Free lessons help you get started, but advanced features and earning are gated behind assessment, KYC, and Jewel Affiliate subscription.
+•	All instructions—including onboarding, compliance, and KYC prompts—are built into the course.
+•	Support available at every step: Use platform email, community groups, or peer mentors if you ever feel stuck.
 ________________________________________
-Topic 4: Orientation and Oriented Status
-Content:
-Completing Orientation is just as important as holding a subscription.
-�	Once you pass the Orientation final assessment, you�ll receive the �Oriented� role.
-�	This role acts as a second key, unlocking Health & Safety content alongside your subscription.
-�	Without Orientation, you cannot progress into the Health & Safety Diploma, even if your subscription is active.
+4️⃣ Why Choose the Affiliate Pathway?
+•	Build income as you help others learn: Commissions are transparent and recurring via the tiered system.
+•	Develop marketable skills: Digital marketing, networking, leadership, and platform tools.
+•	Ethical and legal foundation: Strict anti-scam, compliance, and documentation protocols.
+•	Growth and recognition: Your success as an affiliate adds to your Buzzjuice and career credentials.
 ________________________________________
-Topic 5: Losing Access
-Content:
-There are two common reasons learners lose access:
-1.	Subscription expires � you will be redirected to renew.
-2.	Orientation expires � after 152 days, your Orientation status lapses, and all course data is deleted.
-To restore access:
-�	Renew your subscription (if expired).
-�	Re-complete Orientation to regain Oriented status.
-This ensures all learners remain up-to-date and compliant with Buzzjuice policies.
+📋 Lesson Summary
+•	BUS1300 is your structured, ethical, and scalable entry into affiliate marketing with real-world skills and earnings.
+•	To start, finish orientation, then select BUS1300 from your Courses Landing Page.
+•	Complete the free foundation lessons, submit required KYC, pass the activation assessment, and activate your Jewel Affiliate subscription to unlock advanced material and commission earning.
+•	Support and guidance are built in every step of the way.
 ________________________________________
-Topic 6: Key Takeaways
-Content (bullet points):
-�	Access to Health & Safety courses is gated by subscription + orientation.
-�	The exclusive-content tag enforces these rules automatically.
-�	Orientation completion = Oriented role, required for further progress.
-�	Losing access = renew subscription + redo Orientation (if expired).
-�	Gating protects course integrity and ensures a fair learning environment.
+✅ Next: Once you finish this orientation, you can select "BUS1300 — Affiliate Management" from your Courses page and start your affiliate journey with confidence!
+Tip: Want help onboarding? Ask for support or join peer help groups—there’s a path and a support system for everyone.
 ________________________________________
-? End of Lesson 3: Access Rules & Gating ?
+Optional Video Suggestion:
+Title: “Your Buzzjuice Affiliate Journey Starts Here”
+Duration: 2–3 minutes (Add link if produced.)
+________________________________________
 
-?? LearnDash Lesson Module: Lesson 4 � Expiry, Retention & Re-registration
-Lesson Introduction
-Welcome to Lesson 4: Expiry, Retention & Re-registration.
-Every learner�s Registration & Orientation (R&O) status on Buzzjuice Courses is valid for 152 days. This rule ensures that learners remain active, compliant with platform policies, and up to date with subscription requirements.
-In this lesson, you will learn:
-�	How long your orientation status lasts.
-�	What happens when the 152-day limit is reached.
-�	How your data and course progress are managed.
-�	The steps to re-register and continue your studies.
-By the end of this lesson, you�ll understand the importance of renewing your subscription on time and how to maintain uninterrupted access to Health & Safety course content.
+Here is a complete, LMS-ready script for Lesson 7: Completion, Certification & Next Steps—structured for a ~5-minute closeout, clearly connecting orientation completion, certification, next steps, and long-term platform success for both learning and affiliate earning.
 ________________________________________
-Topic 1: Orientation Expiry (152 Days)
-�	Your Registration & Orientation completion is valid for 152 days from the date you pass the final assessment.
-�	After 152 days, your R&O status expires, and your access to Health & Safety courses will be restricted until you renew.
-�	The expiry countdown begins immediately after passing the orientation assessment, not at the point of subscription renewal.
-Key Point: Expiry is tied to your orientation completion, not just your subscription.
+🎓 Lesson 7: Completion, Certification & Next Steps
+Lesson 7: Completion, Certification & Next Steps
 ________________________________________
-Topic 2: Data Retention & Deletion
-�	Once the 152-day period ends, all course and user statistics connected to your Registration & Orientation are deleted.
-�	Deleted data includes:
-o	Course progress records
-o	Lesson completions
-o	Quiz attempts and scores
-o	Orientation certificate and badge
-�	This ensures compliance with platform policies and creates a fair reset for all learners.
-Note: Personal details stored in your BuddyBoss profile (e.g., education history, emergency contact, health information) remain intact and are not deleted.
+🎬 Lesson Introduction
+Congratulations—you’ve reached the final lesson of your Buzzjuice orientation!
+This last module is your springboard from onboarding to actual achievement. You’ll learn how to complete your orientation quiz, claim your digital credentials, unlock new learning and earning pathways, and get support whenever you need it.
+By the end, you’ll:
+•	Know how to take/retake your Orientation Quiz
+•	Understand how to claim your “Oriented” badge, certificate, and new platform role
+•	Be ready to launch into Health & Safety and/or affiliate courses
+•	Know how to get help as you move forward
 ________________________________________
-Topic 3: Renewal & Re-registration
-To regain full access after expiry, you must:
-1.	Maintain an active subscription (renew your subscription plan if expired).
-2.	Re-complete the Registration & Orientation course (all lessons + final assessment).
-3.	Pass the orientation quiz again to restore your �Oriented� status.
-Only then will your access to Health & Safety courses be unlocked.
+1️⃣ Your Orientation Quiz: Final Requirement for Certification
+•	The Orientation Quiz covers everything you’ve learned so far—platform navigation, compliance, support, assessment rules, and affiliate basics.
+•	Format: 20 multiple-choice questions
+•	Time limit: 20 minutes
+•	Minimum to pass: 70% (14/20 correct)
+•	Number of attempts: Up to 3 allowed
+•	If you don’t pass after 3 tries, contact support@buzzjuice.net for review and help.
+Tips:
+•	If you need to retake, review the highlighted lessons before your next attempt.
+•	The quiz is designed to confirm your real understanding—use your notes!
 ________________________________________
-Topic 4: Reminder Notifications
-�	You will receive automated reminder emails before your 152-day orientation expiry.
-�	Reminders are typically sent at: 30, 14, 7, 3, and 1 day(s) before expiry.
-�	These notifications help you renew on time and avoid losing your course progress.
-Tip: Add support@buzzjuice.net to your safe senders list so you don�t miss these reminders.
+2️⃣ Earning Your 'Oriented' Role, Badge, and Certificate
+Upon passing the quiz:
+•	Oriented Role: This is automatically added to your Buzzjuice account. It unlocks the Courses Landing Page and is required for advanced content, including affiliate features.
+•	Certificate: Instantly downloadable—and printable! Use it for diplomas, applications, or to show proof of achievement.
+•	Badge: Displayed on your BuddyBoss profile, visible to instructors, mentors, and other learners.
+Note: Status lasts 152 days. Simply re-complete orientation to continue after that period, if needed.
 ________________________________________
-Topic 5: Importance of Staying Current
-Why does Buzzjuice enforce expiry and renewal?
-�	To keep learners engaged and accountable.
-�	To make sure learners always know the latest platform rules and subscription policies.
-�	To ensure compliance with the Health & Safety diploma structure.
-This process supports a fair learning environment and strengthens the credibility of Buzzjuice certifications.
+3️⃣ Unlocking New Pathways: Your Next Steps
+Once you pass your quiz and have an active subscription:
+•	Your Courses Landing Page unlocks, where you can choose:
+o	Health & Safety Diploma: Start with HS1000 — Fundamentals of Health & Safety
+o	BUS1300 — Affiliate Management: Begin your free affiliate foundation lessons and onboarding
+Remember: Some course content will remain locked until prerequisites (like quizzes or KYC) are complete.
+Tip: You can always review orientation lessons for a refresher.
 ________________________________________
-Lesson Summary
-�	Orientation status is valid for 152 days.
-�	After expiry, course data is deleted.
-�	Re-registration requires a valid subscription + retaking orientation.
-�	Reminder emails help you act before your expiry date.
-�	Expiry rules keep the learning community fair, current, and compliant.
+4️⃣ If You Need Support Moving Forward
+•	Email: support@buzzjuice.net
+•	BuddyBoss Support & Help Group: Join anytime for peer-to-peer and official support
+•	FAQ and Guides: Check the dashboard Help Center for troubleshooting tips
+•	Admin Hours: Mon–Fri, 9 AM–5 PM GMT
+Save contact details now and watch notifications for major updates.
 ________________________________________
-? End of Lesson 4 � Expiry, Retention & Re-registration
-
-?? LearnDash Lesson Module � Lesson 5
-Title: Academy Bylaws, Conduct & Assessment Rules
+📋 Lesson Summary
+In this wrap-up, you discovered:
+•	How to take and pass your Orientation Quiz (20 mins, 70%, 3 tries)
+•	That passing unlocks your Oriented role, badge, and certificate for 152 days
+•	How to proceed immediately to Health & Safety or Affiliate programs
+•	Where to find help and support for any issue
+Reminder:
+To access advanced, gated content—including affiliate earning—maintain an active subscription and make sure your profile/KYC are always complete and up to date.
 ________________________________________
-Lesson Introduction
-Welcome to Lesson 5 of the Registration & Orientation program.
-In this lesson, you will become familiar with the Academy Bylaws, conduct expectations, and assessment rules that govern your learning experience on the Buzzjuice Courses platform.
-Every student is expected to maintain a standard of professionalism, respect, and accountability while taking part in any course or activity. The bylaws outline the terms, conditions, privacy policies, rules, and procedures that apply to all members.
-Understanding and agreeing to these guidelines is a requirement before continuing to Health & Safety courses and other exclusive-content programs.
-By the end of this lesson, you should:
-�	Recognize the key categories of the Buzzjuice Academy Bylaws
-�	Understand your responsibilities as a registered learner
-�	Know the consequences of misconduct, plagiarism, or dishonesty in assessments
-�	Be prepared to acknowledge compliance with bylaws before assessments
+✅ Next:
+Click to begin your Orientation Quiz now! On passing, your full Buzzjuice journey begins—certificates, badges, learning, and earning are now unlocked.
+Final Tip: Your best progress is built on participation, timely renewal, and ethical conduct. Welcome to the Buzzjuice community—congratulations!
 ________________________________________
-Topic 1: The Academy Bylaws Overview
-The Buzzjuice Academy operates under a set of bylaws that provide the foundation for fair participation and safe learning.
-These bylaws are based on the Koware Bylaws and apply to all courses, forums, clubs, and groups.
-Categories of Bylaws include:
-1.	Terms & Conditions � your rights and responsibilities as a learner.
-2.	Rules & Regulations � platform use, participation in forums/groups, and academic standards.
-3.	Policies & Procedures � guidance for assessments, appeals, and complaints.
-4.	Privacy � data protection and confidentiality of student records.
-5.	Torah Bylaws � included for reference and study; not subject to amendment.
-All members are expected to review the bylaws regularly. Amendments (except for Torah Bylaws) are voted on and approved by the Academy�s governing board.
-?? Action Point: Access the full bylaws in the Academy�s forum: [Bylaws & Policies Group Link]
+Optional Video Suggestion:
+Title: “From Orientation to Success: Your Next Steps on Buzzjuice”
+Duration: 2–3 minutes (Add link if produced.)
 ________________________________________
-Topic 2: Conduct Expectations
-To maintain a positive and professional environment, all learners are expected to follow these standards of conduct:
-�	Respect: Treat fellow students, instructors, and staff with courtesy in all interactions.
-�	Integrity: No cheating, plagiarism, or use of unauthorized resources in assessments.
-�	Collaboration: Group work and discussions must remain constructive and supportive.
-�	Compliance: Adhere to Academy rules in forums, clubs, and study groups.
-�	Responsibility: Creators of clubs or groups are accountable for member conduct within their group.
-?? Consequences for Misconduct
-�	Temporary suspension of account or course access
-�	Removal from groups or clubs
-�	Permanent ban in cases of repeated or serious violations
-________________________________________
-Topic 3: Assessment Rules
-Assessments are designed to ensure you have understood and can apply the concepts presented. To keep the evaluation fair and meaningful:
-1.	Eligibility
-o	Only students with an active subscription and completed Orientation can access assessments.
-2.	Assessment Requirements
-o	Final Orientation Quiz: 20 questions, passing grade of 70% (14/20).
-o	Health & Safety assessments: some lessons are locked until you pass the required quiz.
-3.	Assessment Conduct
-o	Work must be completed individually unless otherwise stated.
-o	Sharing answers or using unauthorized materials is considered misconduct.
-4.	Retake Policy
-o	Orientation quiz: up to 3 retakes allowed.
-o	After 3 failed attempts, you must contact support for review.
-5.	Certification & Records
-o	On passing Orientation, you will be granted the Oriented role, a certificate, and a badge.
-o	Orientation expires in 152 days; progress and records are then deleted. You must re-register and repeat Orientation to regain status.
-________________________________________
-Lesson Summary
-In this lesson, you learned:
-�	The categories of the Academy Bylaws (Terms, Conditions, Rules, Regulations, Policies, Procedures, Torah Bylaws).
-�	Your responsibilities for respectful and professional conduct.
-�	Key assessment rules, including eligibility, honesty, passing requirements, and retake policies.
-Compliance with these bylaws and rules ensures a fair, safe, and professional environment for all learners on the Buzzjuice platform.
-?? Next Step: Acknowledge that you have read and understood the bylaws and conduct rules before moving on to the Orientation Assessment.
 
 
-?? Lesson 6 � Support, Certificates & Next Steps
-Lesson Introduction
-Welcome to Lesson 6 of the Buzzjuice Registration & Orientation program!
-In this lesson, you�ll learn how to get help when you need it, what rewards and access you�ll receive after successfully completing the Orientation, and how to move forward into the Health & Safety Diploma courses.
-Completing Orientation not only grants you access to exclusive course content, but also sets you up for success by making sure you know exactly where to turn for technical support, how to claim your certificate, and what steps to take next.
-By the end of this lesson, you will:
-�	Know where to find support for technical, billing, and academic issues.
-�	Understand the badges, certificates, and Oriented role you will receive upon passing Orientation.
-�	Be ready to start your Health & Safety Diploma journey with confidence.
-________________________________________
-Topic 1 � Support Channels
-When learning online, it�s important to know where to get help. Buzzjuice provides multiple support channels to ensure you never feel stuck.
-Available Support Options:
-�	Email Support: Contact the team at support@buzzjuice.net for technical or billing questions.
-�	BuddyBoss Groups: Join the �Support & Help� group for community-based troubleshooting and peer support.
-�	FAQs & Guides: Access quick answers in the Help Center inside your dashboard.
-�	Admin Support Hours: Admins are available for live responses during working hours (Mon�Fri, 9 AM�5 PM GMT).
-Tip: Always check your profile notifications and email inbox for system updates before submitting a support request.
-________________________________________
-Topic 2 � Certificates, Badges & Orientation Status
-After successfully completing Orientation, your account will be updated to reflect your new status.
-On Passing Orientation, you will receive:
-�	Oriented Role: A new role added to your account that unlocks access to exclusive Health & Safety course content.
-�	Completion Certificate: A downloadable and printable PDF certificate to confirm you�ve completed Orientation.
-�	Orientation Badge: A visible badge on your BuddyBoss profile to show other learners that you are officially �Oriented.�
-These achievements are more than symbols�they are your proof of readiness to begin the Health & Safety Diploma program.
-________________________________________
-Topic 3 � What Happens If You Don�t Pass?
-If you don�t pass Orientation the first time, don�t worry�retakes are allowed.
-�	You have up to 3 attempts to pass the final Orientation quiz.
-�	After each failed attempt, you�ll be directed back to key lessons for review.
-�	If you do not pass after 3 tries, you�ll need to open a support ticket for manual assistance.
-This ensures that every learner entering the Health & Safety program is truly prepared.
-________________________________________
-Topic 4 � Next Steps: Starting the Health & Safety Diploma
-Once Orientation is complete and your subscription is active, you�re ready to start the Health & Safety Diploma!
-Your first course is:
-�	HS1000 � Fundamentals of Health & Safety
-This course will introduce you to global health and safety standards (NEBOSH, ISO, OSHA, ILO), personal risk management, and the foundations you�ll need to progress through the program.
-How to Begin:
-1.	Go to the �Courses� page in your Buzzjuice dashboard.
-2.	Select HS1000 � Fundamentals of Health & Safety.
-3.	Begin with Lesson 1 and follow the steps carefully. Some lessons and quizzes are locked until passed.
-Remember:
-�	Keep your subscription active.
-�	Check your BuddyBoss profile to make sure it�s complete.
-�	Refer back to Orientation lessons if you need a refresher.
-________________________________________
-Lesson Summary
-In this lesson, you learned:
-�	How to contact Buzzjuice support (email, BuddyBoss, FAQs, and admin hours).
-�	What certificates, badges, and roles are awarded after Orientation.
-�	What happens if you don�t pass the Orientation quiz.
-�	How to move forward into the Health & Safety Diploma starting with HS1000.
-You are now prepared to complete Orientation and take your first steps into the Health & Safety program.
 
 
