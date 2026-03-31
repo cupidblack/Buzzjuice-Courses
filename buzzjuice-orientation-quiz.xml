@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wpProQuiz>
+  <quiz>
+    <title><![CDATA[Buzzjuice Registration & Orientation Final Assessment]]></title>
+    <text><![CDATA[Pass this quiz (at least 70%) to unlock your “Oriented” status, digital certificate, and the Courses Landing Page.]]></text>
+    <questions>
+      <!-- LESSON 1: Platform Navigation & Registration -->
+      <question>
+        <title><![CDATA[Profile Completion Requirement]]></title>
+        <questionText><![CDATA[Which step is required before unlocking full platform access?]]></questionText>
+        <correctMsg><![CDATA[Correct: All required profile fields, including KYC, must be completed (Lesson 1).]]></correctMsg>
+        <incorrectMsg><![CDATA[Review Lesson 1: Complete all profile fields before proceeding.]]></incorrectMsg>
+        <answerType>single</answerType>
+        <answers>
+          <answer correct="true"><![CDATA[Complete all required profile fields]]></answer>
+          <answer correct="false"><![CDATA[Submit a support request]]></answer>
+          <answer correct="false"><![CDATA[Just upload a photo]]></answer>
+          <answer correct="false"><![CDATA[Log in and do nothing else]]></answer>
+        </answers>
+      </question>
+      <question>
+        <title><![CDATA[KYC Reasoning]]></title>
+        <questionText><![CDATA[Why must your profile info match your official ID?]]></questionText>
+        <correctMsg><![CDATA[Correct: For KYC, compliance, and eligibility for all courses or affiliate tracks (Lesson 1).]]></correctMsg>
+        <incorrectMsg><![CDATA[Lesson 1 explains why accurate KYC/profile info is critical.]]></incorrectMsg>
+        <answerType>single</answerType>
+        <answers>
+          <answer correct="false"><![CDATA[For avatars and badges]]></answer>
+          <answer correct="false"><![CDATA[To enable dark mode]]></answer>
+          <answer correct="true"><![CDATA[Ensures KYC verification and unlocks full access]]></answer>
+          <answer correct="false"><![CDATA[For leaderboard display only]]></answer>
+        </answers>
+      </question>
+      <question>
+        <title><![CDATA[Profile Next Step]]></title>
+        <questionText><![CDATA[If you see a “profile incomplete” warning, what should you do?]]></questionText>
+        <correctMsg><![CDATA[Correct: Edit your profile and fill in all required fields (Lesson 1).]]></correctMsg>
+        <incorrectMsg><![CDATA[Go back to Lesson 1: ensure all profile fields are filled.]]></incorrectMsg>
+        <answerType>single</answerType>
+        <answers>
+          <answer correct="true"><![CDATA[Edit profile to complete all required info]]></answer>
+          <answer correct="false"><![CDATA[Logout and log in again]]></answer>
+          <answer correct="false"><![CDATA[Ignore it and continue]]></answer>
+          <answer correct="false"><![CDATA[Uninstall the app]]></answer>
+        </answers>
+      </question>
+      <!-- LESSON 2: Course Structure & Progress -->
+      <question>
+        <title><![CDATA[Course Hierarchy]]></title>
+        <questionText><![CDATA[What is the correct order for Buzzjuice courses?]]></questionText>
+        <correctMsg><![CDATA[Correct: Course → Lesson → Topic → Quiz (Lesson 2).]]></correctMsg>
+        <incorrectMsg><![CDATA[Lesson 2 describes the content structure.]]></incorrectMsg>
+        <answerType>single</answerType>
+        <answers>
+          <answer correct="true"><![CDATA[Course → Lesson → Topic → Quiz]]></answer>
+          <answer correct="false"><![CDATA[Quiz → Topic → Lesson → Course]]></answer>
+          <answer correct="false"><![CDATA[Lesson → Course → Topic → Quiz]]></answer>
+          <answer correct="false"><![CDATA[Topic → Quiz → Lesson → Course]]></answer>
+        </answers>
+      </question>
+      <question>
+        <title><![CDATA[Locked Lesson Cause]]></title>
+        <questionText><![CDATA[If a lesson or quiz is “locked,” what should you check?]]></questionText>
+        <correctMsg><![CDATA[Correct: Look for incomplete prerequisite lessons or quizzes (Lesson 2).]]></correctMsg>
+        <incorrectMsg><![CDATA[Check for missing prerequisites as in Lesson 2.]]></incorrectMsg>
+        <answerType>single</answerType>
+        <answers>
+          <answer correct="false"><![CDATA[Forum participation]]></answer>
+          <answer correct="true"><![CDATA[Missing or incomplete prior requirements]]></answer>
+          <answer correct="false"><![CDATA[Subscription auto-renewal]]></answer>
+          <answer correct="false"><![CDATA[Profile photo]]></answer>
+        </answers>
+      </question>
+      <!-- LESSON 3: Subscriptions & Gating -->
+      <question>
+        <title><![CDATA[Subscription Access]]></title>
+        <questionText><![CDATA[What does an active subscription enable?]]></questionText>
+        <correctMsg><![CDATA[Correct: Subscription unlocks content, quizzes, and certificates (Lesson 3).]]></correctMsg>
+        <incorrectMsg><![CDATA[Lesson 3 introduces the role of subscriptions.]]></incorrectMsg>
+        <answerType>single</answerType>
+        <answers>
+          <answer correct="false"><![CDATA[Just announcements]]></answer>
+          <answer correct="true"><![CDATA[Full course content, quizzes, and certificates]]></answer>
+          <answer correct="false"><![CDATA[You can skip lessons]]></answer>
+          <answer correct="false"><![CDATA[None of the above]]></answer>
+        </answers>
+      </question>
+      <question>
+        <title><![CDATA[Paused Access Cause]]></title>
+        <questionText><![CDATA[If your subscription payment fails, what happens?]]></questionText>
+        <correctMsg><![CDATA[Correct: Access is paused until payment is resolved (Lesson 3).]]></correctMsg>
+        <incorrectMsg><![CDATA[Subscription lapses cause access pause—see Lesson 3.]]></incorrectMsg>
+        <answerType>single</answerType>
+        <answers>
+          <answer correct="true"><![CDATA[Course access is paused]]></answer>
+          <answer correct="false"><![CDATA[Admin will message you directly]]></answer>
+          <answer correct="false"><![CDATA[You get priority support]]></answer>
+          <answer correct="false"><![CDATA[Your account is deleted]]></answer>
+        </answers>
+      </question>
+      <question>
+        <title><![CDATA[Gating Requirements]]></title>
+        <questionText><![CDATA[What two things are REQUIRED to unlock Health & Safety content?]]></questionText>
+        <correctMsg><![CDATA[Correct: Active subscription and “Oriented” status are both needed (Lesson 3).]]></correctMsg>
+        <incorrectMsg><![CDATA[You must have BOTH gating keys per Lesson 3.]]></incorrectMsg>
+        <answerType>single</answerType>
+        <answers>
+          <answer correct="true"><![CDATA[Subscription and Oriented status]]></answer>
+          <answer correct="false"><![CDATA[Only a subscription]]></answer>
+          <answer correct="false"><![CDATA[Quiz pass only]]></answer>
+          <answer correct="false"><![CDATA[Profile avatar]]></answer>
+        </answers>
+      </question>
+      <!-- LESSON 4: Support & Community -->
+      <question>
+        <title><![CDATA[Support Channel]]></title>
+        <questionText><![CDATA[What is the correct Buzzjuice support email?]]></questionText>
+        <correctMsg><![CDATA[Correct: support@buzzjuice.net is official (Lesson 4).]]></correctMsg>
+        <incorrectMsg><![CDATA[Lesson 4 lists support contact info.]]></incorrectMsg>
+        <answerType>single</answerType>
+        <answers>
+          <answer correct="true"><![CDATA[support@buzzjuice.net]]></answer>
+          <answer correct="false"><![CDATA[admin@buzzjuice.net]]></answer>
+          <answer correct="false"><![CDATA[support@buzzjuice.com]]></answer>
+          <answer correct="false"><![CDATA[contact@buzzjuice.net]]></answer>
+        </answers>
+      </question>
+      <question>
+        <title><![CDATA[Community Engagement Benefit]]></title>
+        <questionText><![CDATA[Why join Buzzjuice forums and groups?]]></questionText>
+        <correctMsg><![CDATA[Correct: For peer support, Q&A, and collaborative learning (Lesson 4).]]></correctMsg>
+        <incorrectMsg><![CDATA[Review Lesson 4 on community participation.]]></incorrectMsg>
+        <answerType>single</answerType>
+        <answers>
+          <answer correct="false"><![CDATA[Only to promote your business]]></answer>
+          <answer correct="true"><![CDATA[Get help, share resources, learn together]]></answer>
+          <answer correct="false"><![CDATA[Unlock hidden modules]]></answer>
+          <answer correct="false"><![CDATA[Bypass assessments]]></answer>
+        </answers>
+      </question>
+      <question>
+        <title><![CDATA[Conduct Example]]></title>
+        <questionText><![CDATA[Which is NOT appropriate on Buzzjuice?]]></questionText>
+        <correctMsg><![CDATA[Correct: Cheating or spamming violates conduct guidelines (Lesson 4).]]></correctMsg>
+        <incorrectMsg><![CDATA[Lesson 4: Responsible conduct is required.]]></incorrectMsg>
+        <answerType>single</answerType>
+        <answers>
+          <answer correct="false"><![CDATA[Respectful communication]]></answer>
+          <answer correct="true"><![CDATA[Cheating or spamming]]></answer>
+          <answer correct="false"><![CDATA[Helping group members]]></answer>
+          <answer correct="false"><![CDATA[Reporting issues]]></answer>
+        </answers>
+      </question>
+      <!-- LESSON 5: Bylaws, Conduct & Assessment Rules -->
+      <question>
+        <title><![CDATA[Bylaw Category]]></title>
+        <questionText><![CDATA[Which is NOT a main Buzzjuice bylaw category?]]></questionText>
+        <correctMsg><![CDATA[Correct: Affiliate Earnings is not a bylaw (Lesson 5).]]></correctMsg>
+        <incorrectMsg><![CDATA[See Lesson 5 for the correct bylaw categories.]]></incorrectMsg>
+        <answerType>single</answerType>
+        <answers>
+          <answer correct="true"><![CDATA[Affiliate Earnings]]></answer>
+          <answer correct="false"><![CDATA[Terms & Conditions]]></answer>
+          <answer correct="false"><![CDATA[Privacy Policy]]></answer>
+          <answer correct="false"><![CDATA[Rules & Regulations]]></answer>
+        </answers>
+      </question>
+      <question>
+        <title><![CDATA[Assessment Conduct Violation]]></title>
+        <questionText><![CDATA[What is considered misconduct during any assessment?]]></questionText>
+        <correctMsg><![CDATA[Correct: Cheating, plagiarism, or sharing answers is misconduct (Lesson 5).]]></correctMsg>
+        <incorrectMsg><![CDATA[Revisit Lesson 5 for what is allowed.]]></incorrectMsg>
+        <answerType>single</answerType>
+        <answers>
+          <answer correct="true"><![CDATA[Sharing answers or cheating]]></answer>
+          <answer correct="false"><![CDATA[Using your own notes]]></answer>
+          <answer correct="false"><![CDATA[Marking lessons complete]]></answer>
+          <answer correct="false"><![CDATA[Taking a screenshot]]></answer>
+        </answers>
+      </question>
+      <question>
+        <title><![CDATA[Quiz Attempts Limit]]></title>
+        <questionText><![CDATA[How many attempts can you make at the Orientation Quiz before contacting support?]]></questionText>
+        <correctMsg><![CDATA[Correct: Three attempts; contact support on failure (Lesson 5).]]></correctMsg>
+        <incorrectMsg><![CDATA[Lesson 5 explains the retake policy.]]></incorrectMsg>
+        <answerType>single</answerType>
+        <answers>
+          <answer correct="true"><![CDATA[3]]></answer>
+          <answer correct="false"><![CDATA[1]]></answer>
+          <answer correct="false"><![CDATA[2]]></answer>
+          <answer correct="false"><![CDATA[Unlimited]]></answer>
+        </answers>
+      </question>
+      <question>
+        <title><![CDATA[Fail 3x Workflow]]></title>
+        <questionText><![CDATA[What should you do if you fail the quiz three times?]]></questionText>
+        <correctMsg><![CDATA[Contact support for guidance and a manual review (Lesson 5).]]></correctMsg>
+        <incorrectMsg><![CDATA[Lesson 5: Contact support after 3 attempts.]]></incorrectMsg>
+        <answerType>single</answerType>
+        <answers>
+          <answer correct="true"><![CDATA[Email support@buzzjuice.net]]></answer>
+          <answer correct="false"><![CDATA[Retake again forever]]></answer>
+          <answer correct="false"><![CDATA[Ask friends for answers]]></answer>
+          <answer correct="false"><![CDATA[Contact a peer group]]></answer>
+        </answers>
+      </question>
+      <!-- LESSON 6: Affiliate Program (BUS1300) -->
+      <question>
+        <title><![CDATA[BUS1300 Availability]]></title>
+        <questionText><![CDATA[When does BUS1300 — Affiliate Management show up on your Courses page?]]></questionText>
+        <correctMsg><![CDATA[Correct: After passing Orientation (Lesson 6).]]></correctMsg>
+        <incorrectMsg><![CDATA[Lesson 6: Unlock after orientation.]]></incorrectMsg>
+        <answerType>single</answerType>
+        <answers>
+          <answer correct="true"><![CDATA[After passing Orientation]]></answer>
+          <answer correct="false"><![CDATA[Immediately, before Orientation]]></answer>
+          <answer correct="false"><![CDATA[After HS1000]]></answer>
+          <answer correct="false"><![CDATA[After group discussion]]></answer>
+        </answers>
+      </question>
+      <question>
+        <title><![CDATA[BUS1300 Earning Unlock]]></title>
+        <questionText><![CDATA[What is required before you can earn affiliate commissions in BUS1300?]]></questionText>
+        <correctMsg><![CDATA[Correct: KYC verification, activation assessment, and Jewel Affiliate subscription (Lesson 6).]]></correctMsg>
+        <incorrectMsg><![CDATA[Lesson 6: Affiliate onboarding requirements.]]></incorrectMsg>
+        <answerType>single</answerType>
+        <answers>
+          <answer correct="true"><![CDATA[KYC, pass activation assessment, Jewel Affiliate subscription]]></answer>
+          <answer correct="false"><![CDATA[Just joining a group]]></answer>
+          <answer correct="false"><![CDATA[Only a profile photo]]></answer>
+          <answer correct="false"><![CDATA[Request approval in forum]]></answer>
+        </answers>
+      </question>
+      <question>
+        <title><![CDATA[Affiliate Reward System]]></title>
+        <questionText><![CDATA[What type of commission model does the Buzzjuice affiliate program use?]]></questionText>
+        <correctMsg><![CDATA[Correct: Multi-tier commission structure (Lesson 6).]]></correctMsg>
+        <incorrectMsg><![CDATA[Lesson 6: Multi-tier commission is key to affiliate earnings.]]></incorrectMsg>
+        <answerType>single</answerType>
+        <answers>
+          <answer correct="true"><![CDATA[Multi-tier commission]]></answer>
+          <answer correct="false"><![CDATA[Single fixed fee]]></answer>
+          <answer correct="false"><![CDATA[Contest entry prize]]></answer>
+          <answer correct="false"><![CDATA[Only leader bonuses]]></answer>
+        </answers>
+      </question>
+      <!-- LESSON 7: Completion, Certification & Next Steps -->
+      <question>
+        <title><![CDATA[Oriented Rewards]]></title>
+        <questionText><![CDATA[What do you receive after passing Orientation and the quiz?]]></questionText>
+        <correctMsg><![CDATA[Correct: Oriented role, badge, and certificate (Lesson 7).]]></correctMsg>
+        <incorrectMsg><![CDATA[Lesson 7: Completion awards.]]></incorrectMsg>
+        <answerType>single</answerType>
+        <answers>
+          <answer correct="true"><![CDATA[Oriented role, badge, and certificate]]></answer>
+          <answer correct="false"><![CDATA[Admin privileges]]></answer>
+          <answer correct="false"><![CDATA[Extra quiz attempts]]></answer>
+          <answer correct="false"><![CDATA[Phone support upgrade]]></answer>
+        </answers>
+      </question>
+      <question>
+        <title><![CDATA[Post-Orientation Step]]></title>
+        <questionText><![CDATA[After passing Orientation, what should you do next?]]></questionText>
+        <correctMsg><![CDATA[Correct: Select and enroll in Health & Safety or BUS1300 Affiliate (Lesson 7).]]></correctMsg>
+        <incorrectMsg><![CDATA[Next up: Choose and begin your preferred course.]]></incorrectMsg>
+        <answerType>single</answerType>
+        <answers>
+          <answer correct="true"><![CDATA[Select and start your next course path]]></answer>
+          <answer correct="false"><![CDATA[Re-take Orientation]]></answer>
+          <answer correct="false"><![CDATA[Respond to admin email]]></answer>
+          <answer correct="false"><![CDATA[Skip to leadership course]]></answer>
+        </answers>
+      </question>
+    </questions>
+  </quiz>
+</wpProQuiz>
